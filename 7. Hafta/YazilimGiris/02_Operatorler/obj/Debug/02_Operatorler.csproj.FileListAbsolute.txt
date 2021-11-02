@@ -1,0 +1,7 @@
+C:\Users\Üren\source\repos\YazilimGiris\02_Operatorler\bin\Debug\02_Operatorler.exe.config
+C:\Users\Üren\source\repos\YazilimGiris\02_Operatorler\bin\Debug\02_Operatorler.exe
+C:\Users\Üren\source\repos\YazilimGiris\02_Operatorler\bin\Debug\02_Operatorler.pdb
+C:\Users\Üren\source\repos\YazilimGiris\02_Operatorler\obj\Debug\02_Operatorler.csproj.CoreCompileInputs.cache
+C:\Users\Üren\source\repos\YazilimGiris\02_Operatorler\obj\Debug\02_Operatorler.exe
+C:\Users\Üren\source\repos\YazilimGiris\02_Operatorler\obj\Debug\02_Operatorler.pdb
+C:\Users\Üren\source\repos\YazilimGiris\02_Operatorler\obj\Debug\02_Operatorler.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+D:\Users\euykan\source\repos\ReusabilitySample\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\Users\euykan\source\repos\ReusabilitySample\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\Users\euykan\source\repos\ReusabilitySample\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Users\euykan\source\repos\ReusabilitySample\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\Users\euykan\source\repos\ReusabilitySample\BusinessLayer\obj\Debug\BusinessLayer.pdb
+D:\Users\euykan\source\repos\ReusabilitySample\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+F:\.NET Dersleri\14.Hafta\ReusabilitySample\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+F:\.NET Dersleri\14.Hafta\ReusabilitySample\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+F:\.NET Dersleri\14.Hafta\ReusabilitySample\BusinessLayer\obj\Debug\BusinessLayer.dll
+F:\.NET Dersleri\14.Hafta\ReusabilitySample\BusinessLayer\obj\Debug\BusinessLayer.pdb

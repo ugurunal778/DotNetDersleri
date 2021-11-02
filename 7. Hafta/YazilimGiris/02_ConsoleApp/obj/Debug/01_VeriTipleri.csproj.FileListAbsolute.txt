@@ -1,0 +1,7 @@
+C:\Users\Üren\source\repos\YazilimGiris\02_ConsoleApp\bin\Debug\02_ConsoleApp.exe.config
+C:\Users\Üren\source\repos\YazilimGiris\02_ConsoleApp\bin\Debug\02_ConsoleApp.exe
+C:\Users\Üren\source\repos\YazilimGiris\02_ConsoleApp\bin\Debug\02_ConsoleApp.pdb
+C:\Users\Üren\source\repos\YazilimGiris\02_ConsoleApp\obj\Debug\01_VeriTipleri.csproj.CoreCompileInputs.cache
+C:\Users\Üren\source\repos\YazilimGiris\02_ConsoleApp\obj\Debug\02_ConsoleApp.exe
+C:\Users\Üren\source\repos\YazilimGiris\02_ConsoleApp\obj\Debug\02_ConsoleApp.pdb
+C:\Users\Üren\source\repos\YazilimGiris\02_ConsoleApp\obj\Debug\01_VeriTipleri.csprojAssemblyReference.cache

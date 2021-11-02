@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_VeriTipleri", "02_ConsoleApp\01_VeriTipleri.csproj", "{2F940E7F-9907-4C52-A01F-5B6A63EB78E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Operatorler", "02_Operatorler\02_Operatorler.csproj", "{BBB973C6-6098-486C-A40B-B9953AAB48AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F940E7F-9907-4C52-A01F-5B6A63EB78E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F940E7F-9907-4C52-A01F-5B6A63EB78E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F940E7F-9907-4C52-A01F-5B6A63EB78E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F940E7F-9907-4C52-A01F-5B6A63EB78E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBB973C6-6098-486C-A40B-B9953AAB48AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBB973C6-6098-486C-A40B-B9953AAB48AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBB973C6-6098-486C-A40B-B9953AAB48AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBB973C6-6098-486C-A40B-B9953AAB48AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F84CEBF-5178-4578-B91D-FCAB99436BF7}
+	EndGlobalSection
+EndGlobal

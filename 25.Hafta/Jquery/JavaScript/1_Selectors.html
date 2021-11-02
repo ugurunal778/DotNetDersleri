@@ -1,0 +1,140 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <meta charset="utf-8" />
+    <link href="Content/bootstrap.css" rel="stylesheet" />
+    <script src="Scripts/jquery-1.9.1.js"></script>
+    <style type="text/css">
+        .metin {
+            width: 170px;
+            height: 150px;
+            -webkit-box-shadow: 7px 7px 5px 0px rgba(0,0,0,0.75);
+            -moz-box-shadow: 7px 7px 5px 0px rgba(0,0,0,0.75);
+            box-shadow: 7px 7px 5px 0px rgba(0,0,0,0.75);
+            float: left;
+            margin-right: 12px;
+            border-radius: 10px;
+            line-height: 150px;
+            text-align: center;
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            font-size: large;
+        } 
+    </style>
+    <script>
+        //Sayfaniz yuklendigi anda tum fonksiyonlarin calismaya hazir bir sekilde beklemesini isterseniz; Jquery fonksiyonlarindan "ready" kulllanabilirsiniz...
+        $(document).ready(function () {
+
+            $("#bir").click(function () {
+                $('p').html('');
+
+                $("#metin").html("Sayfa uzerindeki tum  ' p ' etiketlerin HTML icerigine 'Merhaba JQuery' yazdiralim...");
+                $('p').html('Merhaba JQUERY!');
+            });
+
+            $("#iki").click(function () {
+                $('p').html('');
+
+                $("#metin").html("ID'si 'metin1' olan p'nin HTML icerigini degistirme....");
+                $('p#metin1').html('Merhaba JQUERY!');
+            });
+
+            $("#uc").click(function () {
+                $('p').html('');
+
+                $("#metin").html("ID'si 'metin1' ve 'metin2' olan p'lerin HTML icerigini degistirme....");
+                $('p#metin1, p#metin2').html('Merhaba JQUERY!');
+            });
+
+            $("#dort").click(function () {
+                $('p').html('');
+
+                $("#metin").html("'Lang' attribute'u 'tr' olan elementin HTML icerigini degistirme");
+                $('p[lang=tr]').html('Merhaba JQUERY');
+            });
+
+            $("#bes").click(function () {
+                $('p').html('');
+
+                $("#metin").html("'Lang' attribute'u 'tr' ve 'en' olan elementlerin HTML icerigini degistirme");
+                $('p[lang=tr],[lang=en]').html('Merhaba JQUERY');
+            });
+
+            $("#alti").click(function () {
+                $('p').html('');
+
+                $("#metin").html("'Lang' attribute'u 'en' ve 'id' attribute'u 'iki' olan elementin HTML icerigini degistirme");
+                $('p[lang=en][id=metin2]').html('Hello JQUERY');
+            });
+
+            $("#yedi").click(function () {
+                $('p').html('');
+
+                $("#metin").html("'id' attribute'u 'metin3' olmayan elementlerin HTML icerigine mudahele ");
+                $('p[id!=metin3]').html("ID'si metin3 değil!");
+            });
+
+            $("#sekiz").click(function () {
+                $('p').html('');
+
+                $("#metin").html("'id' attribute'u 'me' ile baslayan elementlerin HTML icerigine mudahele etme");
+                $('p[id^=me]').html('Merhaba JQUERY!');
+            });
+
+            $("#dokuz").click(function () {
+                $('p').html('');
+
+                $("#metin").html("'id' attribute'u '6' ile biten elementlerin HTML icerigine mudahele etme");
+                $('p[id$=6]').html('Merhaba JQUERY!');
+            });
+        });
+    </script>
+
+</head>
+<body>
+    <div class="container">
+        <div class="row" style="margin-top:50px;">
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    <div class="col-lg-12">
+                        <p id="metin1" lang="tr" class="metin" style="background-color:#FFDC00;"></p>
+                        <p id="metin2" lang="en" class="metin" style="background-color:#FF851B;"></p>
+                        <p id="metin3" lang="tr" class="metin" style="background-color:#FF4136;"></p>
+                        <p id="BaMetin4" lang="fr" class="metin" style="background-color:#01FF70;"></p>
+                        <p id="metin5" lang="tr" class="metin" style="background-color:#F012BE;"></p>
+                        <p id="BaMetin6" lang="en" class="metin" style="background-color:#39CCCC;"></p>
+                    </div>
+                </div>
+            </div>
+            <figure>
+                <pre>
+                <span>
+                   http://api.jquery.com/category/selectors/ adresinden tum selector'leri görebilirsiniz...
+                    </span>     
+                <br />
+                <span id="metin">                        
+                    </span>
+                </pre>
+
+            </figure>
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    <div class="col-lg-12">
+                        <div class="btn-group btn-group-justified">
+                            <a id="bir" class="btn btn-default">Örnek Bir</a>
+                            <a id="iki" class="btn btn-default">Örnek İki</a>
+                            <a id="uc" class="btn btn-default">Örnek Üç</a>
+                            <a id="dort" class="btn btn-default">Örnek Dört</a>
+                            <a id="bes" class="btn btn-default">Örnek Beş</a>
+                            <a id="alti" class="btn btn-default">Örnek Altı</a>
+                            <a id="yedi" class="btn btn-default">Örnek Yedi</a>
+                            <a id="sekiz" class="btn btn-default">Örnek Sekiz</a>
+                            <a id="dokuz" class="btn btn-default">Örnek Dokuz</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

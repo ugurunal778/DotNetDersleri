@@ -1,0 +1,55 @@
+﻿
+****SINGLE RESPONSIBILITY PRINCIPLE****
+
+--İlk olarak SRP klasörüne bakalım.
+--Bu klasörde öğrencilerle ilk olarak Employee classı oluşturuyoruz. BadEmployeeProcessor ile Single Responsibility prensibine uymayacak bir class hazırlıyoruz.
+--Arkasından Logger sınıfı oluşturuyoruz ve GoodEmployeeProcessor ile işlerin birbirinden ayırılmış halini tanımlıyoruz.
+--Program.cs içerisinde loglama işlemini tamamlıyoruz.
+
+
+****OPEN / CLOSED PRINCIPLE****
+--OCP klasörüne bakıyoruz.
+--Bu prensibi elektrik adaptörleri gibi düşünebiliriz.
+--Çıkış sayısını değiştirmek mümkün değildir ancak üzerine istersek daha fazla adaptör ekleyebiliriz.
+--İlk olarak BadCoffee classına bakıyoruz.
+--Amaç => Her yeni tipte yeni bir class oluşturmak. Bu sayede kod genişletilebilir olacak, sadece son eklenen classlar kontrol edilecek ve var olan classlarda modifikasyona gerek kalmayacaktır.
+--İlk versiyonunda tek class içerisine if-else ekleyerek tipleri tutarken, validated klasöründe her tip için class oluşturduk. Bu sayede yeni bir tip eklendiğinde sadece yeni bir sınıf açılacak ve var olan sınıfların kodlarında değişikliğe gidilmek zorunda kalmayacaktır. 
+
+
+****LISKOV SUBSTITUTION PRINCIPLE****
+--LSP klasörüne bakıyoruz.
+--Bu prensip OCP'ye çok benzerlik gösterir. 
+--Bu prensibi ICollection-List yapıları gibi düşünebiliriz.
+--Alt sınıflarda oluşan nesneler(kalıtım) üst sınıflardan oluşturulan nesnelerle yer değiştirebilir olmalıdır. 
+--Rectangle nesnesinden Square oluşturursak, program.cs içerisinde açıklandığı gibi hata alıyoruz.
+--Bu hatayı çözmek için:
+
+1.AreaCalculator classını kaldırıyoruz
+2.Her şeklin kendi alan hesaplamasına sahip olduğundan emin oluyoruz.
+3.Dörtgen sınıfının base sınıf olmasındansa, shape adında daha genel soyut bir sınıf oluşturuyoruz.
+
+--İşlemleri Validated klasöründe gerçekleştirip program.cs içerisinde ikinci bölümü çalıştırıyoruz.
+--Hatasız çalıştığını göreibliyoruz.
+
+
+****INTERFACE SEGREGATION PRINCIPLE****
+--ISP Klasörüne bakıyoruz.
+--Sınıflar ihtiyaçları olmayan özellik ve davranışları içeren interfaceleri almamalıdır.
+--IBird sınıfına bakarsak çok genel olduğunu ve farklı türden kuş ailesinden gelen türlerde problemlere yol açtığını görüyoruz. Tavuk penguen gibi kuş tipleri uçamazlar ve biz kuş interface'i üzerinde tüm kuşların bu yeteneklere sahip olduklarını varsayarak kötü bir tasarım gerçekleştirdik.
+--Bunu düzeltmek adına kuş interfaceini biraz bölümlere ayırmamız gerekiyor.
+--Validated klasöründe şu andaki probleme bir çözüm göreceksiniz.
+--Şahin sınıfına bakarsak hem uçamayan hem de uçabilen kuşların yetenekşerine sahip olduğunu ancak tavukların sadece uçamayan kuşların sahip oldukları yeteneklere sahip olduğunu görebiliriz.
+--Bu sayede tavuk sınıfı gereksiz davranış ve özellikleri almamıştır.
+
+
+
+
+****DEPENDENCY INVERSION PRINCIPLE*****
+--DIP Klasörüne bakıyoruz.
+--DIP high level bir sınıfın/modülün, alt seviye bir sınıf/modül yapısına bağımlı olmaması durumudur.
+--Abstraction ile sınıfımızın alt seviye sınıflara bağımlılığını kaldırmamız gereklidir.
+--Restaurant sınıfımız high level, fish ve poultry sınıfımız ise low level olarak tanımlanabilir. Restaurant sınıfında ise iki low level sınıftan instance alınmış ve bağımlılık oluşturulmuştur.
+--Soyutlama yöntemi ile (Abstraction) bu bağımlılıkları yok etmemiz gerekiyor.
+--Validated klasörüne bakıyoruz.
+--IProduct adı altında bir interface tanımlıyoruz.
+

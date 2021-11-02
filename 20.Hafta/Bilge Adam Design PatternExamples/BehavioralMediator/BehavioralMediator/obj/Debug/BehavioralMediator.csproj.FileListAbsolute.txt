@@ -1,0 +1,14 @@
+c:\users\admin\source\repos\BehavioralMediator\BehavioralMediator\bin\Debug\BehavioralMediator.exe.config
+c:\users\admin\source\repos\BehavioralMediator\BehavioralMediator\bin\Debug\BehavioralMediator.exe
+c:\users\admin\source\repos\BehavioralMediator\BehavioralMediator\bin\Debug\BehavioralMediator.pdb
+c:\users\admin\source\repos\BehavioralMediator\BehavioralMediator\obj\Debug\BehavioralMediator.csprojResolveAssemblyReference.cache
+c:\users\admin\source\repos\BehavioralMediator\BehavioralMediator\obj\Debug\BehavioralMediator.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\BehavioralMediator\BehavioralMediator\obj\Debug\BehavioralMediator.exe
+c:\users\admin\source\repos\BehavioralMediator\BehavioralMediator\obj\Debug\BehavioralMediator.pdb
+D:\Users\euykan\Desktop\Teknik Dökümanlar\Bilge Adam Müfredat\5) Solid Principles & Desing Patterns\Examples\Bilge Adam Design PatternExamples\BehavioralMediator\BehavioralMediator\bin\Debug\BehavioralMediator.exe.config
+D:\Users\euykan\Desktop\Teknik Dökümanlar\Bilge Adam Müfredat\5) Solid Principles & Desing Patterns\Examples\Bilge Adam Design PatternExamples\BehavioralMediator\BehavioralMediator\bin\Debug\BehavioralMediator.exe
+D:\Users\euykan\Desktop\Teknik Dökümanlar\Bilge Adam Müfredat\5) Solid Principles & Desing Patterns\Examples\Bilge Adam Design PatternExamples\BehavioralMediator\BehavioralMediator\bin\Debug\BehavioralMediator.pdb
+D:\Users\euykan\Desktop\Teknik Dökümanlar\Bilge Adam Müfredat\5) Solid Principles & Desing Patterns\Examples\Bilge Adam Design PatternExamples\BehavioralMediator\BehavioralMediator\obj\Debug\BehavioralMediator.csprojAssemblyReference.cache
+D:\Users\euykan\Desktop\Teknik Dökümanlar\Bilge Adam Müfredat\5) Solid Principles & Desing Patterns\Examples\Bilge Adam Design PatternExamples\BehavioralMediator\BehavioralMediator\obj\Debug\BehavioralMediator.csproj.CoreCompileInputs.cache
+D:\Users\euykan\Desktop\Teknik Dökümanlar\Bilge Adam Müfredat\5) Solid Principles & Desing Patterns\Examples\Bilge Adam Design PatternExamples\BehavioralMediator\BehavioralMediator\obj\Debug\BehavioralMediator.exe
+D:\Users\euykan\Desktop\Teknik Dökümanlar\Bilge Adam Müfredat\5) Solid Principles & Desing Patterns\Examples\Bilge Adam Design PatternExamples\BehavioralMediator\BehavioralMediator\obj\Debug\BehavioralMediator.pdb

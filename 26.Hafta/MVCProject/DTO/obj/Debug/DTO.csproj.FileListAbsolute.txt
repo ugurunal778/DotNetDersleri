@@ -1,0 +1,11 @@
+D:\Users\euykan\source\repos\MVCProject\DTO\bin\Debug\DTO.dll
+D:\Users\euykan\source\repos\MVCProject\DTO\bin\Debug\DTO.pdb
+D:\Users\euykan\source\repos\MVCProject\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Users\euykan\source\repos\MVCProject\DTO\obj\Debug\DTO.dll
+D:\Users\euykan\source\repos\MVCProject\DTO\obj\Debug\DTO.pdb
+C:\Users\ugur7\Google Drive\.Net Dersler\26.Hafta\20210801\MVCProject\DTO\bin\Debug\DTO.dll
+C:\Users\ugur7\Google Drive\.Net Dersler\26.Hafta\20210801\MVCProject\DTO\bin\Debug\DTO.pdb
+C:\Users\ugur7\Google Drive\.Net Dersler\26.Hafta\20210801\MVCProject\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\ugur7\Google Drive\.Net Dersler\26.Hafta\20210801\MVCProject\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\ugur7\Google Drive\.Net Dersler\26.Hafta\20210801\MVCProject\DTO\obj\Debug\DTO.dll
+C:\Users\ugur7\Google Drive\.Net Dersler\26.Hafta\20210801\MVCProject\DTO\obj\Debug\DTO.pdb

@@ -1,0 +1,14 @@
+c:\users\admin\source\repos\CreationalBuilder\CreationalBuilder\bin\Debug\CreationalBuilder.exe.config
+c:\users\admin\source\repos\CreationalBuilder\CreationalBuilder\bin\Debug\CreationalBuilder.exe
+c:\users\admin\source\repos\CreationalBuilder\CreationalBuilder\bin\Debug\CreationalBuilder.pdb
+c:\users\admin\source\repos\CreationalBuilder\CreationalBuilder\obj\Debug\CreationalBuilder.csprojResolveAssemblyReference.cache
+c:\users\admin\source\repos\CreationalBuilder\CreationalBuilder\obj\Debug\CreationalBuilder.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\CreationalBuilder\CreationalBuilder\obj\Debug\CreationalBuilder.exe
+c:\users\admin\source\repos\CreationalBuilder\CreationalBuilder\obj\Debug\CreationalBuilder.pdb
+D:\Users\euykan\Desktop\Teknik Dökümanlar\Bilge Adam Müfredat\5) Solid Principles & Desing Patterns\Examples\Bilge Adam Design PatternExamples\CreationalBuilder\CreationalBuilder\bin\Debug\CreationalBuilder.exe.config
+D:\Users\euykan\Desktop\Teknik Dökümanlar\Bilge Adam Müfredat\5) Solid Principles & Desing Patterns\Examples\Bilge Adam Design PatternExamples\CreationalBuilder\CreationalBuilder\bin\Debug\CreationalBuilder.exe
+D:\Users\euykan\Desktop\Teknik Dökümanlar\Bilge Adam Müfredat\5) Solid Principles & Desing Patterns\Examples\Bilge Adam Design PatternExamples\CreationalBuilder\CreationalBuilder\bin\Debug\CreationalBuilder.pdb
+D:\Users\euykan\Desktop\Teknik Dökümanlar\Bilge Adam Müfredat\5) Solid Principles & Desing Patterns\Examples\Bilge Adam Design PatternExamples\CreationalBuilder\CreationalBuilder\obj\Debug\CreationalBuilder.csprojAssemblyReference.cache
+D:\Users\euykan\Desktop\Teknik Dökümanlar\Bilge Adam Müfredat\5) Solid Principles & Desing Patterns\Examples\Bilge Adam Design PatternExamples\CreationalBuilder\CreationalBuilder\obj\Debug\CreationalBuilder.csproj.CoreCompileInputs.cache
+D:\Users\euykan\Desktop\Teknik Dökümanlar\Bilge Adam Müfredat\5) Solid Principles & Desing Patterns\Examples\Bilge Adam Design PatternExamples\CreationalBuilder\CreationalBuilder\obj\Debug\CreationalBuilder.exe
+D:\Users\euykan\Desktop\Teknik Dökümanlar\Bilge Adam Müfredat\5) Solid Principles & Desing Patterns\Examples\Bilge Adam Design PatternExamples\CreationalBuilder\CreationalBuilder\obj\Debug\CreationalBuilder.pdb

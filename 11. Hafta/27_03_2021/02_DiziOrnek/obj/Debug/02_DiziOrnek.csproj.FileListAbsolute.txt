@@ -1,0 +1,7 @@
+C:\Users\Üren\source\repos\27_03_2021\02_DiziOrnek\bin\Debug\02_DiziOrnek.exe.config
+C:\Users\Üren\source\repos\27_03_2021\02_DiziOrnek\bin\Debug\02_DiziOrnek.exe
+C:\Users\Üren\source\repos\27_03_2021\02_DiziOrnek\bin\Debug\02_DiziOrnek.pdb
+C:\Users\Üren\source\repos\27_03_2021\02_DiziOrnek\obj\Debug\02_DiziOrnek.csproj.CoreCompileInputs.cache
+C:\Users\Üren\source\repos\27_03_2021\02_DiziOrnek\obj\Debug\02_DiziOrnek.exe
+C:\Users\Üren\source\repos\27_03_2021\02_DiziOrnek\obj\Debug\02_DiziOrnek.pdb
+C:\Users\Üren\source\repos\27_03_2021\02_DiziOrnek\obj\Debug\02_DiziOrnek.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\ugur7\source\repos\ReusabilitySample\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\ugur7\source\repos\ReusabilitySample\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\ugur7\source\repos\ReusabilitySample\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\ugur7\source\repos\ReusabilitySample\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ugur7\source\repos\ReusabilitySample\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\ugur7\source\repos\ReusabilitySample\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\ugur7\Google Drive\.Net Dersler\Ders tekrarları\ReusabilitySample\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\ugur7\Google Drive\.Net Dersler\Ders tekrarları\ReusabilitySample\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\ugur7\Google Drive\.Net Dersler\Ders tekrarları\ReusabilitySample\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\ugur7\Google Drive\.Net Dersler\Ders tekrarları\ReusabilitySample\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ugur7\Google Drive\.Net Dersler\Ders tekrarları\ReusabilitySample\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\ugur7\Google Drive\.Net Dersler\Ders tekrarları\ReusabilitySample\BusinessLayer\obj\Debug\BusinessLayer.pdb

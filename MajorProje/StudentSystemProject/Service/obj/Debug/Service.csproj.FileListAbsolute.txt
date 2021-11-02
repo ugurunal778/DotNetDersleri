@@ -1,0 +1,16 @@
+C:\Users\ugur7\source\repos\StudentSystemProject\Service\bin\Debug\Service.dll
+C:\Users\ugur7\source\repos\StudentSystemProject\Service\bin\Debug\Service.pdb
+C:\Users\ugur7\source\repos\StudentSystemProject\Service\obj\Debug\Service.csproj.AssemblyReference.cache
+C:\Users\ugur7\source\repos\StudentSystemProject\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\ugur7\source\repos\StudentSystemProject\Service\obj\Debug\Service.dll
+C:\Users\ugur7\source\repos\StudentSystemProject\Service\obj\Debug\Service.pdb
+C:\Users\ugur7\source\repos\StudentSystemProject\Service\bin\Debug\AutoMapper.dll
+C:\Users\ugur7\source\repos\StudentSystemProject\Service\bin\Debug\Dto.dll
+C:\Users\ugur7\source\repos\StudentSystemProject\Service\bin\Debug\Repository.dll
+C:\Users\ugur7\source\repos\StudentSystemProject\Service\bin\Debug\EntityFramework.dll
+C:\Users\ugur7\source\repos\StudentSystemProject\Service\bin\Debug\Dto.pdb
+C:\Users\ugur7\source\repos\StudentSystemProject\Service\bin\Debug\Repository.pdb
+C:\Users\ugur7\source\repos\StudentSystemProject\Service\bin\Debug\Repository.dll.config
+C:\Users\ugur7\source\repos\StudentSystemProject\Service\bin\Debug\AutoMapper.xml
+C:\Users\ugur7\source\repos\StudentSystemProject\Service\bin\Debug\EntityFramework.xml
+C:\Users\ugur7\source\repos\StudentSystemProject\Service\obj\Debug\Service.csproj.CopyComplete

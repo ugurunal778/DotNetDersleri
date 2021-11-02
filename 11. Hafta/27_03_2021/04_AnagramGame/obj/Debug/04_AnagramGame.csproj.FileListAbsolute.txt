@@ -1,0 +1,14 @@
+C:\Users\Üren\source\repos\27_03_2021\04_AnagramGame\bin\Debug\04_AnagramGame.exe.config
+C:\Users\Üren\source\repos\27_03_2021\04_AnagramGame\bin\Debug\04_AnagramGame.exe
+C:\Users\Üren\source\repos\27_03_2021\04_AnagramGame\bin\Debug\04_AnagramGame.pdb
+C:\Users\Üren\source\repos\27_03_2021\04_AnagramGame\obj\Debug\04_AnagramGame.csprojAssemblyReference.cache
+C:\Users\Üren\source\repos\27_03_2021\04_AnagramGame\obj\Debug\04_AnagramGame.csproj.CoreCompileInputs.cache
+C:\Users\Üren\source\repos\27_03_2021\04_AnagramGame\obj\Debug\04_AnagramGame.exe
+C:\Users\Üren\source\repos\27_03_2021\04_AnagramGame\obj\Debug\04_AnagramGame.pdb
+C:\Users\ugur7\Google Drive\.Net Dersler\11. Hafta\27_03_2021\04_AnagramGame\bin\Debug\04_AnagramGame.exe.config
+C:\Users\ugur7\Google Drive\.Net Dersler\11. Hafta\27_03_2021\04_AnagramGame\bin\Debug\04_AnagramGame.exe
+C:\Users\ugur7\Google Drive\.Net Dersler\11. Hafta\27_03_2021\04_AnagramGame\bin\Debug\04_AnagramGame.pdb
+C:\Users\ugur7\Google Drive\.Net Dersler\11. Hafta\27_03_2021\04_AnagramGame\obj\Debug\04_AnagramGame.csprojAssemblyReference.cache
+C:\Users\ugur7\Google Drive\.Net Dersler\11. Hafta\27_03_2021\04_AnagramGame\obj\Debug\04_AnagramGame.csproj.CoreCompileInputs.cache
+C:\Users\ugur7\Google Drive\.Net Dersler\11. Hafta\27_03_2021\04_AnagramGame\obj\Debug\04_AnagramGame.exe
+C:\Users\ugur7\Google Drive\.Net Dersler\11. Hafta\27_03_2021\04_AnagramGame\obj\Debug\04_AnagramGame.pdb

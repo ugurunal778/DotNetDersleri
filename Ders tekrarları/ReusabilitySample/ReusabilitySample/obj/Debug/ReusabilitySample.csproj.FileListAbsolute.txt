@@ -1,0 +1,28 @@
+C:\Users\ugur7\source\repos\ReusabilitySample\ReusabilitySample\obj\Debug\ReusabilitySample.csprojAssemblyReference.cache
+C:\Users\ugur7\source\repos\ReusabilitySample\ReusabilitySample\obj\Debug\ReusabilitySample.Form1.resources
+C:\Users\ugur7\source\repos\ReusabilitySample\ReusabilitySample\obj\Debug\ReusabilitySample.Properties.Resources.resources
+C:\Users\ugur7\source\repos\ReusabilitySample\ReusabilitySample\obj\Debug\ReusabilitySample.csproj.GenerateResource.cache
+C:\Users\ugur7\source\repos\ReusabilitySample\ReusabilitySample\obj\Debug\ReusabilitySample.csproj.CoreCompileInputs.cache
+C:\Users\ugur7\source\repos\ReusabilitySample\ReusabilitySample\bin\Debug\ReusabilitySample.exe.config
+C:\Users\ugur7\source\repos\ReusabilitySample\ReusabilitySample\bin\Debug\ReusabilitySample.exe
+C:\Users\ugur7\source\repos\ReusabilitySample\ReusabilitySample\bin\Debug\ReusabilitySample.pdb
+C:\Users\ugur7\source\repos\ReusabilitySample\ReusabilitySample\obj\Debug\ReusabilitySample.exe
+C:\Users\ugur7\source\repos\ReusabilitySample\ReusabilitySample\obj\Debug\ReusabilitySample.pdb
+C:\Users\ugur7\source\repos\ReusabilitySample\ReusabilitySample\bin\Debug\BusinessLayer.dll
+C:\Users\ugur7\source\repos\ReusabilitySample\ReusabilitySample\bin\Debug\BusinessLayer.pdb
+C:\Users\ugur7\source\repos\ReusabilitySample\ReusabilitySample\obj\Debug\ReusabilitySample.csproj.CopyComplete
+C:\Users\ugur7\source\repos\ReusabilitySample\ReusabilitySample\obj\Debug\ReusabilitySample.Form2.resources
+C:\Users\ugur7\Google Drive\.Net Dersler\Ders tekrarları\ReusabilitySample\ReusabilitySample\bin\Debug\ReusabilitySample.exe.config
+C:\Users\ugur7\Google Drive\.Net Dersler\Ders tekrarları\ReusabilitySample\ReusabilitySample\bin\Debug\ReusabilitySample.exe
+C:\Users\ugur7\Google Drive\.Net Dersler\Ders tekrarları\ReusabilitySample\ReusabilitySample\bin\Debug\ReusabilitySample.pdb
+C:\Users\ugur7\Google Drive\.Net Dersler\Ders tekrarları\ReusabilitySample\ReusabilitySample\bin\Debug\BusinessLayer.dll
+C:\Users\ugur7\Google Drive\.Net Dersler\Ders tekrarları\ReusabilitySample\ReusabilitySample\bin\Debug\BusinessLayer.pdb
+C:\Users\ugur7\Google Drive\.Net Dersler\Ders tekrarları\ReusabilitySample\ReusabilitySample\obj\Debug\ReusabilitySample.csprojAssemblyReference.cache
+C:\Users\ugur7\Google Drive\.Net Dersler\Ders tekrarları\ReusabilitySample\ReusabilitySample\obj\Debug\ReusabilitySample.Form1.resources
+C:\Users\ugur7\Google Drive\.Net Dersler\Ders tekrarları\ReusabilitySample\ReusabilitySample\obj\Debug\ReusabilitySample.Form2.resources
+C:\Users\ugur7\Google Drive\.Net Dersler\Ders tekrarları\ReusabilitySample\ReusabilitySample\obj\Debug\ReusabilitySample.Properties.Resources.resources
+C:\Users\ugur7\Google Drive\.Net Dersler\Ders tekrarları\ReusabilitySample\ReusabilitySample\obj\Debug\ReusabilitySample.csproj.GenerateResource.cache
+C:\Users\ugur7\Google Drive\.Net Dersler\Ders tekrarları\ReusabilitySample\ReusabilitySample\obj\Debug\ReusabilitySample.csproj.CoreCompileInputs.cache
+C:\Users\ugur7\Google Drive\.Net Dersler\Ders tekrarları\ReusabilitySample\ReusabilitySample\obj\Debug\ReusabilitySample.csproj.CopyComplete
+C:\Users\ugur7\Google Drive\.Net Dersler\Ders tekrarları\ReusabilitySample\ReusabilitySample\obj\Debug\ReusabilitySample.exe
+C:\Users\ugur7\Google Drive\.Net Dersler\Ders tekrarları\ReusabilitySample\ReusabilitySample\obj\Debug\ReusabilitySample.pdb

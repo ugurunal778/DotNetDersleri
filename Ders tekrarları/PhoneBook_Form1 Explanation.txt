@@ -1,0 +1,165 @@
+using System;
+using PhoneBook.DataLayer;
+using PhoneBook.BussinessLayer;
+using System.Windows.Forms;
+
+namespace PhoneBook
+{
+    public partial class Form1 : Form
+    {
+        CustomerOperations customerOperations = new CustomerOperations();						//CustomerOperations DataLayer'inda customerOperations adinda yeni bir nesne tanimla
+        public Form1()
+        {
+            InitializeComponent();
+        }
+        private void btnAddCustomerPanel_Click(object sender, EventArgs e)						//Musteri ekleme panelini aktif edecek butona tiklandiginda
+        {
+            customerOperations.SetPanelValue(Controls, pnlAddCustomer);		//CustomerOperations DataLayer'indaki customerOperations'in SetPanelValue'sunu Controls ve pnlAddCustomer icin calistir
+        }
+        private void btnAdd_Click(object sender, EventArgs e)									//musteri ekleme butonuna tiklandiginda
+        {
+            var result = customerOperations.CustomerUpsertValidation(txtAddName.Text, txtAddSurname.Text);	//customerOperations'in CustomerUpsertValidation metodunu txtAddName'in text'i ve txtAddSurname'in text'i icin calistir ve olusturulan result nesnesine ata
+            if (result.Key == false)																		//eger result'un key'i false ise
+            {
+                MessageBox.Show(result.Value);																	//result'un value'sunu ekranda goster
+            }
+            else																							//degilse
+            {
+                var createResult = customerOperations.CustomerCreate(txtAddName.Text, txtAddSurname.Text);		//customerOperations'in CustomerCreate metodunu txtAddName'in text'ine ve txtAddSurname'in textine gore calistir ve olusturulan createResult nesnesine ata
+                MessageBox.Show(createResult.Value);															//createResult'un value'sunu ekranda goster
+                customerOperations.CustomerUpsertPanelSet(pnlAddCustomer, txtAddName, txtAddSurname);			//customerOperations'in CustomerUpsertPanelSet metodunu pnlAddCustomer, txtAddName ve txtAddSurname'e gore calistir
+            }
+        }
+        private void txtInput_KeyPress(object sender, KeyPressEventArgs e)						//textboxlara herhangi bir girdi oldugunda calisacak metod
+        {
+            if (char.IsDigit(e.KeyChar))													//girilen karakter digital mi
+                e.Handled = true;														//girdiyi kabul etme
+        }
+        private void btnUpdateCustomerPanel_Click(object sender, EventArgs e)					//musteri guncelleme panelini aktif edecek butona tiklandiginda calisacak metod
+        {
+            var customerAnyResult = customerOperations.CustomerAny();		//customerOperations'in CustomerAny listesini olusturulan customerAnyResult nesnesine ata
+            if (!customerAnyResult.Key)										//customerAnyResult'un key'i yok ise
+            {
+                MessageBox.Show(customerAnyResult.Value.Value);						//customerAnyResult'un value'sunun value'sunu ekranda goster
+                return;																//metoddan cik
+            }
+            else if (customerAnyResult.Value.Key == false)					//customerAnyResult'un value'sunun key'i false ise
+            {
+                MessageBox.Show("guncellenecek kayit bulunamamaktadir. ");			//ekranda yazdir
+                return;																//metoddan cik
+            }
+            else															//yoksa
+            {
+                customerOperations.SetPanelValue(Controls, pnlUpgradeCustomer);		//customerOperations'in SetPanelValue metodunu Controls ve pnlUpgradeCustomer icin calistir
+                cmbUpgradePickCustomer.Items.Clear();								//cmbAddPhonePickCustomer'in Items'ini temizle
+                var customerResult = customerOperations.GetCustomer();				//customerOperations'in GetCustomer listesini olusturulan customerResult nesnesine ata
+                if (customerResult.Key)												//eger customerResult'un key'i var ise
+                {
+                    for (int i = 0; i < customerResult.Value.Key.Count; i++)				//customerResult'un value'sunun [i]'ninci keyini cmbUpgradePickCustomer'in Items'ina Insert et
+                    {
+                        cmbUpgradePickCustomer.Items.Insert(i, customerResult.Value.Key[i]);
+                    }
+                    cmbUpgradePickCustomer.DisplayMember = "FullName";						//cmbAddPhonePickCustomer'in DisplayMember'ini "FullName"e gore cagir (CustomerPartitial class'indaki FullName metodu return Name + " " + Surname seklinde calisir)
+                }
+                else																//yok ise
+                {
+                    MessageBox.Show(customerResult.Value.Value);							//customerResult'un value'sunun value'sunu ekranda goster
+                }
+            }
+        }
+        private void cmbUpgradePickCustomer_SelectedIndexChanged(object sender, EventArgs e)	//guncelleme panelindeki musteri secmek icin kullanilan comboboxda calisacak metod
+        {
+            Customer selectedItem = (Customer)cmbUpgradePickCustomer.SelectedItem;		//cmbAddPhonePickCustomer'daki secilen nesneyi Customer class'inda olusturulan selectedItem nesnesine ata
+            txtUgradeName.Text = selectedItem.Name;										//selectedItem'in Name'ini txtUgradeName'in text'ine ata
+            txtUpgradeSurname.Text = selectedItem.Surname;								//selectedItem'in Surname'ini  txtUpgradeSurname'in text'ine ata
+        }
+        private void btnUpgrade_Click(object sender, EventArgs e)								//guncelleme panelindeki musteri guncelleme butonuna tiklandiginda calisacak metod
+        {
+            var result = customerOperations.CustomerUpsertValidation(txtUgradeName.Text, txtUpgradeSurname.Text);	//customerOperations'daki CustomerUpsertValidation listesini txtUgradeName ve txtUpgradeSurname'e gore calistirip olusturulan result'a ata
+            if (result.Key == false)																				//eger result'un key'i false ise
+            {
+                MessageBox.Show(result.Value);																				//result'un value'sunu ekranda yazdir
+            }
+            else																									//degilse
+            {
+                var customerUpdateResult = customerOperations.Update((Customer)cmbUpgradePickCustomer.SelectedItem, txtUgradeName.Text, txtUpgradeSurname.Text);	//cmbUpgradePickCustomer'dakki secili nesneyi Customer class'ina cast ettikten sonra txtUgradeName ve txtUpgradeSurname ile beraber customerOperations listini update et ve olusturulan customerUpdateResult nesnesine ata
+                MessageBox.Show(customerUpdateResult.Value);																										//ekranda goster
+                txtUpgradeSurname.Text = "";																														//txtUpgradeSurname texini bosalt
+                txtUgradeName.Text = "";																															//txtUgradeName textini bosalt
+                cmbUpgradePickCustomer.Text = "";																													//cmbUpgradePickCustomer texini bosalt
+                pnlUpgradeCustomer.Visible = false;																													//pnlUpgradeCustomer panelini kapat
+            }
+        }
+        private void btnAddPhonePanel_Click(object sender, EventArgs e)							//telefon ekleme panelini aktif edecek olan telefon ekle butonu
+        {
+            customerOperations.SetPanelValue(Controls, pnlAddPhone);								//Controls ve pnlAddPhone'a gore CustomerOperations class'indaki SetPanelValue metodunu calistir
+            cmbAddPhonePickCustomer.Items.Clear();													//cmbAddPhonePickCustomer daki nesneleri temizle
+            cmbAddPhoneType.Items.Clear();															//cmbAddPhoneType'daki nesneleri temizle
+            txtAddPhoneType.Text = "";																//txtAddPhoneType'in texini temizle
+            cmbAddPhonePickCustomer.Text = "";														//cmbAddPhonePickCustomer'in texini temizle
+            cmbAddPhoneType.Text = "";																//cmbAddPhoneType'in texini temizle 
+            var phoneTypesResult = customerOperations.GetPhoneTypes();								//customerOperations'daki GetPhoneTypes listesini olusturulan phoneTypesResult nesnesine ata
+            if (phoneTypesResult.Key==false)														//phoneAddResult'un key'i false ise
+            {
+                MessageBox.Show(phoneTypesResult.Value.Value);											//ekranda goster
+                return;    																				//metoddan cik
+            }
+            for (int i = 0; i < phoneTypesResult.Value.Key.Count; i++)								//i phoneAddResult'in value'sunun key'inin sayisindan az ise donguye gir ve i'yi 1 artir
+            {
+                cmbAddPhoneType.Items.Insert(i, phoneTypesResult.Value.Key[i]);							//phoneAddResult'in value'sunun i'ninci keyini cmbAddPhoneType'in nesnelerine insert et
+            }	
+            cmbAddPhoneType.DisplayMember = "PhoneType1";											//PhoneType class'indaki  PhoneType1 stringini cmbAddPhoneType DisplayMember'larina ekle
+
+            var customerAnyResult = customerOperations.CustomerAny();								//customerOperations'daki CustomerAny listesini olusturulan customerAnyResult nesnesine ata
+            if (!customerAnyResult.Key)																//eger customerAnyResult'ta key yok ise
+            {
+                MessageBox.Show(customerAnyResult.Value.Value);											//ekranda goster
+                return;																					//metoddan cik
+            }
+            else if (customerAnyResult.Value.Key == false)											//eger customerAnyResult'un value'sunun key'i false ise
+            {
+                MessageBox.Show("Musteri kaydi bulunmamaktadir. ");										//ekranda goster
+                return;																					//metoddan cik
+            }	
+            else																					//eger yoksa
+            {
+                cmbAddPhonePickCustomer.Items.Clear();													//cmbAddPhonePickCustomer'in nesnelerini temizle
+                var customerResult = customerOperations.GetCustomer();									//customerOperations'taki GetCustomer listesini olusturulan customerResult nesnesine ata
+                if (customerResult.Key)																	//eger customerResult'ta key var ise
+                {
+                    for (int i = 0; i < customerResult.Value.Key.Count; i++)								//i customerResult'taki value'nun key sayisindan az ise donguye gir ve i'yi 1 artir
+                    {
+                        cmbAddPhonePickCustomer.Items.Insert(i, customerResult.Value.Key[i]);					//customerResult'taki value'nun i'ninci keyini cmbAddPhonePickCustomer'in nesnelerine insert et
+                    }
+                    cmbAddPhonePickCustomer.DisplayMember = "FullName";										//CustomerPartitial class'indaki FullName stringini cmbAddPhonePickCustomer'daki DisplayMember'a ata
+                }
+                else																					//eger yoksa
+                {
+                    MessageBox.Show(customerResult.Value.Value);											//ekranda goster
+                }
+            }
+
+        }
+        private void txtAddPhoneType_KeyPress(object sender, KeyPressEventArgs e)				//telefon ekleme panelindeki numaranin yazilacagi panele karakter girisi oldugunda calisacak metod
+        {
+            if (char.IsDigit(e.KeyChar) == false)													//eger girilen karakter numerik karakter degil ise
+                e.Handled = true;																		//girilen karakteri kabul etme
+        }
+        private void btnAddPhone_Click(object sender, EventArgs e)								//telefon ekleme panelindeki telefon ekle butonuna basildiginda calisacak metod
+        {
+            var selectedPhoneTypes = (PhoneType)cmbAddPhoneType.SelectedItem;											//cmbAddPhoneType'taki secilen nesneyi PhoneType'a cast et ardindan olusturulan selectedPhoneTypes nesnesine ata
+            var selectedCustomer = (Customer)cmbAddPhonePickCustomer.SelectedItem;										//cmbAddPhonePickCustomer'daki secilen nesneyi Customer'a cast et ardindan olusturulan selectedCustomer nesnesine ata
+            var phoneNumber = txtAddPhoneNumber.Text;																	//txtAddPhoneNumber'daki texti olusturulan phoneNumber nesnesine ata
+            var result = customerOperations.PhoneAddValidation(selectedPhoneTypes, selectedCustomer, phoneNumber);		//customerOperations'daki PhoneAddValidation listesini selectedPhoneTypes, selectedCustomer ve phoneNumber'a gore cagir ve olusturulan result nesnesine ata
+            if (result.Key == false)																					//eger result'ta key yok ise
+            {
+                MessageBox.Show(result.Value);																				//ekranda goster
+            }
+            else																										//eger yoksa
+            {
+                var phoneAddResult = customerOperations.PhoneAdd(selectedPhoneTypes, selectedCustomer, phoneNumber);		//customerOperations'daki PhoneAdd listesini selectedPhoneTypes, selectedCustomer ve phoneNumber'a gore cagir ve olusturulan phoneAddResult nesnesine ata
+                MessageBox.Show(phoneAddResult.Value);																		//ekranda goster
+            }
+        }
+    }
+}

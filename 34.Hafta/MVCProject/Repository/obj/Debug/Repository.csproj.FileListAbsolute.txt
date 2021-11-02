@@ -1,0 +1,14 @@
+D:\Users\euykan\source\repos\MVCProject\Repository\bin\Debug\Repository.dll.config
+D:\Users\euykan\source\repos\MVCProject\Repository\bin\Debug\Repository.dll
+D:\Users\euykan\source\repos\MVCProject\Repository\bin\Debug\Repository.pdb
+D:\Users\euykan\source\repos\MVCProject\Repository\bin\Debug\DTO.dll
+D:\Users\euykan\source\repos\MVCProject\Repository\bin\Debug\EntityFramework.dll
+D:\Users\euykan\source\repos\MVCProject\Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\euykan\source\repos\MVCProject\Repository\bin\Debug\DTO.pdb
+D:\Users\euykan\source\repos\MVCProject\Repository\bin\Debug\EntityFramework.xml
+D:\Users\euykan\source\repos\MVCProject\Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\euykan\source\repos\MVCProject\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+D:\Users\euykan\source\repos\MVCProject\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+D:\Users\euykan\source\repos\MVCProject\Repository\obj\Debug\Repository.csproj.CopyComplete
+D:\Users\euykan\source\repos\MVCProject\Repository\obj\Debug\Repository.dll
+D:\Users\euykan\source\repos\MVCProject\Repository\obj\Debug\Repository.pdb

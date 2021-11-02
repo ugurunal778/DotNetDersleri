@@ -1,0 +1,14 @@
+D:\Users\euykan\Desktop\Teknik Dökümanlar\Bilge Adam Müfredat\5) Solid Principles & Desing Patterns\Examples\BA_SOLID\SolidSample\bin\Debug\SolidSample.exe.config
+D:\Users\euykan\Desktop\Teknik Dökümanlar\Bilge Adam Müfredat\5) Solid Principles & Desing Patterns\Examples\BA_SOLID\SolidSample\bin\Debug\SolidSample.exe
+D:\Users\euykan\Desktop\Teknik Dökümanlar\Bilge Adam Müfredat\5) Solid Principles & Desing Patterns\Examples\BA_SOLID\SolidSample\bin\Debug\SolidSample.pdb
+D:\Users\euykan\Desktop\Teknik Dökümanlar\Bilge Adam Müfredat\5) Solid Principles & Desing Patterns\Examples\BA_SOLID\SolidSample\bin\Debug\BA_SOLID.exe
+D:\Users\euykan\Desktop\Teknik Dökümanlar\Bilge Adam Müfredat\5) Solid Principles & Desing Patterns\Examples\BA_SOLID\SolidSample\bin\Debug\BA_SOLID.pdb
+D:\Users\euykan\Desktop\Teknik Dökümanlar\Bilge Adam Müfredat\5) Solid Principles & Desing Patterns\Examples\BA_SOLID\SolidSample\bin\Debug\BA_SOLID.exe.config
+D:\Users\euykan\Desktop\Teknik Dökümanlar\Bilge Adam Müfredat\5) Solid Principles & Desing Patterns\Examples\BA_SOLID\SolidSample\obj\Debug\SolidSample.csprojAssemblyReference.cache
+D:\Users\euykan\Desktop\Teknik Dökümanlar\Bilge Adam Müfredat\5) Solid Principles & Desing Patterns\Examples\BA_SOLID\SolidSample\obj\Debug\SolidSample.Form1.resources
+D:\Users\euykan\Desktop\Teknik Dökümanlar\Bilge Adam Müfredat\5) Solid Principles & Desing Patterns\Examples\BA_SOLID\SolidSample\obj\Debug\SolidSample.Properties.Resources.resources
+D:\Users\euykan\Desktop\Teknik Dökümanlar\Bilge Adam Müfredat\5) Solid Principles & Desing Patterns\Examples\BA_SOLID\SolidSample\obj\Debug\SolidSample.csproj.GenerateResource.cache
+D:\Users\euykan\Desktop\Teknik Dökümanlar\Bilge Adam Müfredat\5) Solid Principles & Desing Patterns\Examples\BA_SOLID\SolidSample\obj\Debug\SolidSample.csproj.CoreCompileInputs.cache
+D:\Users\euykan\Desktop\Teknik Dökümanlar\Bilge Adam Müfredat\5) Solid Principles & Desing Patterns\Examples\BA_SOLID\SolidSample\obj\Debug\SolidSample.csproj.CopyComplete
+D:\Users\euykan\Desktop\Teknik Dökümanlar\Bilge Adam Müfredat\5) Solid Principles & Desing Patterns\Examples\BA_SOLID\SolidSample\obj\Debug\SolidSample.exe
+D:\Users\euykan\Desktop\Teknik Dökümanlar\Bilge Adam Müfredat\5) Solid Principles & Desing Patterns\Examples\BA_SOLID\SolidSample\obj\Debug\SolidSample.pdb

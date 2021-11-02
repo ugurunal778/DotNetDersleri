@@ -1,0 +1,12 @@
+C:\Users\ugur7\source\repos\MVCProject\Repository\bin\Debug\Repository.dll.config
+C:\Users\ugur7\source\repos\MVCProject\Repository\bin\Debug\Repository.dll
+C:\Users\ugur7\source\repos\MVCProject\Repository\bin\Debug\Repository.pdb
+C:\Users\ugur7\source\repos\MVCProject\Repository\bin\Debug\EntityFramework.dll
+C:\Users\ugur7\source\repos\MVCProject\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ugur7\source\repos\MVCProject\Repository\bin\Debug\EntityFramework.xml
+C:\Users\ugur7\source\repos\MVCProject\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ugur7\source\repos\MVCProject\Repository\obj\Debug\Repository.csproj.AssemblyReference.cache
+C:\Users\ugur7\source\repos\MVCProject\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\ugur7\source\repos\MVCProject\Repository\obj\Debug\Repository.csproj.CopyComplete
+C:\Users\ugur7\source\repos\MVCProject\Repository\obj\Debug\Repository.dll
+C:\Users\ugur7\source\repos\MVCProject\Repository\obj\Debug\Repository.pdb

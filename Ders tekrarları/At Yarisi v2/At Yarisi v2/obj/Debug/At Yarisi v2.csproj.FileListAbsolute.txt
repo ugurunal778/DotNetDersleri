@@ -1,0 +1,20 @@
+F:\.NET Dersleri\Ders tekrarları\At Yarisi v2\At Yarisi v2\bin\Debug\At Yarisi v2.exe.config
+F:\.NET Dersleri\Ders tekrarları\At Yarisi v2\At Yarisi v2\bin\Debug\At Yarisi v2.exe
+F:\.NET Dersleri\Ders tekrarları\At Yarisi v2\At Yarisi v2\bin\Debug\At Yarisi v2.pdb
+F:\.NET Dersleri\Ders tekrarları\At Yarisi v2\At Yarisi v2\obj\Debug\At Yarisi v2.csprojAssemblyReference.cache
+F:\.NET Dersleri\Ders tekrarları\At Yarisi v2\At Yarisi v2\obj\Debug\At_Yarisi_v2.Form1.resources
+F:\.NET Dersleri\Ders tekrarları\At Yarisi v2\At Yarisi v2\obj\Debug\At_Yarisi_v2.Properties.Resources.resources
+F:\.NET Dersleri\Ders tekrarları\At Yarisi v2\At Yarisi v2\obj\Debug\At Yarisi v2.csproj.GenerateResource.cache
+F:\.NET Dersleri\Ders tekrarları\At Yarisi v2\At Yarisi v2\obj\Debug\At Yarisi v2.csproj.CoreCompileInputs.cache
+F:\.NET Dersleri\Ders tekrarları\At Yarisi v2\At Yarisi v2\obj\Debug\At Yarisi v2.exe
+F:\.NET Dersleri\Ders tekrarları\At Yarisi v2\At Yarisi v2\obj\Debug\At Yarisi v2.pdb
+F:\Google Drive\Google Drive Desktop Upload\.Net Dersler\Ders tekrarları\At Yarisi v2\At Yarisi v2\bin\Debug\At Yarisi v2.exe.config
+F:\Google Drive\Google Drive Desktop Upload\.Net Dersler\Ders tekrarları\At Yarisi v2\At Yarisi v2\bin\Debug\At Yarisi v2.exe
+F:\Google Drive\Google Drive Desktop Upload\.Net Dersler\Ders tekrarları\At Yarisi v2\At Yarisi v2\bin\Debug\At Yarisi v2.pdb
+F:\Google Drive\Google Drive Desktop Upload\.Net Dersler\Ders tekrarları\At Yarisi v2\At Yarisi v2\obj\Debug\At Yarisi v2.csprojAssemblyReference.cache
+F:\Google Drive\Google Drive Desktop Upload\.Net Dersler\Ders tekrarları\At Yarisi v2\At Yarisi v2\obj\Debug\At_Yarisi_v2.Form1.resources
+F:\Google Drive\Google Drive Desktop Upload\.Net Dersler\Ders tekrarları\At Yarisi v2\At Yarisi v2\obj\Debug\At_Yarisi_v2.Properties.Resources.resources
+F:\Google Drive\Google Drive Desktop Upload\.Net Dersler\Ders tekrarları\At Yarisi v2\At Yarisi v2\obj\Debug\At Yarisi v2.csproj.GenerateResource.cache
+F:\Google Drive\Google Drive Desktop Upload\.Net Dersler\Ders tekrarları\At Yarisi v2\At Yarisi v2\obj\Debug\At Yarisi v2.csproj.CoreCompileInputs.cache
+F:\Google Drive\Google Drive Desktop Upload\.Net Dersler\Ders tekrarları\At Yarisi v2\At Yarisi v2\obj\Debug\At Yarisi v2.exe
+F:\Google Drive\Google Drive Desktop Upload\.Net Dersler\Ders tekrarları\At Yarisi v2\At Yarisi v2\obj\Debug\At Yarisi v2.pdb

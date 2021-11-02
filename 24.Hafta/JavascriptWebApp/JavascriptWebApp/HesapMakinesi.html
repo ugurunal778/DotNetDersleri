@@ -1,0 +1,54 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script type="text/javascript">
+        function Clear() {
+            document.getElementById("hiddenSpan").innerHTML = "";
+            document.getElementById("spanResult").innerHTML = "";
+            document.getElementById("inputParam").value = "";
+
+        }
+        function Sum() {
+
+            var input = Number(document.getElementById("inputParam").value);
+            if (input == "") {
+                alert("Toplanacak Veriyi Giriniz");
+            }
+            else {
+                if (document.getElementById("hiddenSpan").innerHTML == "") {
+                    document.getElementById("hiddenSpan").innerHTML = input;
+
+
+                    sessionStorage.setItem("firstInput", input);
+                    alert(sessionStorage.getItem("firstInput"));
+
+
+                }
+                else {
+                    //var firstItem = document.getElementById("hiddenSpan").innerHTML;
+                    var firstItem =   sessionStorage.getItem("firstInput");
+                    var result = Number(input) + Number(firstItem);
+
+                    document.getElementById("spanResult").innerHTML = result;
+                    document.getElementById("hiddenSpan").innerHTML = result;
+                }
+
+            }
+        }
+    </script>
+</head>
+<body>
+    <input id="inputParam" />
+    <button class="btn  btn-default" onclick="Sum();">
+        Topla
+    </button>
+    <button class="btn  btn-default" onclick="Clear();">
+        Temizle
+    </button>
+    <br />
+    <span id="spanResult"></span>
+    <span id="hiddenSpan" style="visibility:hidden"></span>
+</body>
+</html>

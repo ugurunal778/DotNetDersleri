@@ -1,0 +1,10 @@
+F:\.NET Dersleri\9. Hafta\At Yarisi\At Yarisi\bin\Debug\At Yarisi.exe.config
+F:\.NET Dersleri\9. Hafta\At Yarisi\At Yarisi\bin\Debug\At Yarisi.exe
+F:\.NET Dersleri\9. Hafta\At Yarisi\At Yarisi\bin\Debug\At Yarisi.pdb
+F:\.NET Dersleri\9. Hafta\At Yarisi\At Yarisi\obj\Debug\At Yarisi.csprojAssemblyReference.cache
+F:\.NET Dersleri\9. Hafta\At Yarisi\At Yarisi\obj\Debug\At_Yarisi.Form1.resources
+F:\.NET Dersleri\9. Hafta\At Yarisi\At Yarisi\obj\Debug\At_Yarisi.Properties.Resources.resources
+F:\.NET Dersleri\9. Hafta\At Yarisi\At Yarisi\obj\Debug\At Yarisi.csproj.GenerateResource.cache
+F:\.NET Dersleri\9. Hafta\At Yarisi\At Yarisi\obj\Debug\At Yarisi.csproj.CoreCompileInputs.cache
+F:\.NET Dersleri\9. Hafta\At Yarisi\At Yarisi\obj\Debug\At Yarisi.exe
+F:\.NET Dersleri\9. Hafta\At Yarisi\At Yarisi\obj\Debug\At Yarisi.pdb

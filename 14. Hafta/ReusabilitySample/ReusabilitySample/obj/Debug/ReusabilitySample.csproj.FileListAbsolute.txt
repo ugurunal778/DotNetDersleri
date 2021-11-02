@@ -1,0 +1,24 @@
+D:\Users\euykan\source\repos\ReusabilitySample\ReusabilitySample\bin\Debug\ReusabilitySample.exe.config
+D:\Users\euykan\source\repos\ReusabilitySample\ReusabilitySample\bin\Debug\ReusabilitySample.exe
+D:\Users\euykan\source\repos\ReusabilitySample\ReusabilitySample\bin\Debug\ReusabilitySample.pdb
+D:\Users\euykan\source\repos\ReusabilitySample\ReusabilitySample\obj\Debug\ReusabilitySample.csprojAssemblyReference.cache
+D:\Users\euykan\source\repos\ReusabilitySample\ReusabilitySample\obj\Debug\ReusabilitySample.Form1.resources
+D:\Users\euykan\source\repos\ReusabilitySample\ReusabilitySample\obj\Debug\ReusabilitySample.Properties.Resources.resources
+D:\Users\euykan\source\repos\ReusabilitySample\ReusabilitySample\obj\Debug\ReusabilitySample.csproj.GenerateResource.cache
+D:\Users\euykan\source\repos\ReusabilitySample\ReusabilitySample\obj\Debug\ReusabilitySample.csproj.CoreCompileInputs.cache
+D:\Users\euykan\source\repos\ReusabilitySample\ReusabilitySample\obj\Debug\ReusabilitySample.exe
+D:\Users\euykan\source\repos\ReusabilitySample\ReusabilitySample\obj\Debug\ReusabilitySample.pdb
+D:\Users\euykan\source\repos\ReusabilitySample\ReusabilitySample\bin\Debug\BusinessLayer.dll
+D:\Users\euykan\source\repos\ReusabilitySample\ReusabilitySample\bin\Debug\BusinessLayer.pdb
+D:\Users\euykan\source\repos\ReusabilitySample\ReusabilitySample\obj\Debug\ReusabilitySample.csproj.CopyComplete
+D:\Users\euykan\source\repos\ReusabilitySample\ReusabilitySample\obj\Debug\ReusabilitySample.Form2.resources
+D:\Users\euykan\source\repos\ReusabilitySample\ReusabilitySample\obj\Debug\ReusabilitySample.FormBase.resources
+F:\.NET Dersleri\14.Hafta\ReusabilitySample\ReusabilitySample\obj\Debug\ReusabilitySample.csprojAssemblyReference.cache
+F:\.NET Dersleri\14.Hafta\ReusabilitySample\ReusabilitySample\obj\Debug\ReusabilitySample.Form1.resources
+F:\.NET Dersleri\14.Hafta\ReusabilitySample\ReusabilitySample\obj\Debug\ReusabilitySample.Form2.resources
+F:\.NET Dersleri\14.Hafta\ReusabilitySample\ReusabilitySample\obj\Debug\ReusabilitySample.FormBase.resources
+F:\.NET Dersleri\14.Hafta\ReusabilitySample\ReusabilitySample\obj\Debug\ReusabilitySample.Properties.Resources.resources
+F:\.NET Dersleri\14.Hafta\ReusabilitySample\ReusabilitySample\obj\Debug\ReusabilitySample.csproj.GenerateResource.cache
+F:\.NET Dersleri\14.Hafta\ReusabilitySample\ReusabilitySample\obj\Debug\ReusabilitySample.csproj.CoreCompileInputs.cache
+F:\.NET Dersleri\14.Hafta\ReusabilitySample\ReusabilitySample\obj\Debug\ReusabilitySample.exe
+F:\.NET Dersleri\14.Hafta\ReusabilitySample\ReusabilitySample\obj\Debug\ReusabilitySample.pdb

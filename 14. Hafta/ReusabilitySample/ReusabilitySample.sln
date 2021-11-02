@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReusabilitySample", "ReusabilitySample\ReusabilitySample.csproj", "{C2E5228E-D480-47B8-B54E-712C39DC97F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLayer", "BusinessLayer\BusinessLayer.csproj", "{8D784CBF-96EF-4035-906C-14AA55BAC9D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2E5228E-D480-47B8-B54E-712C39DC97F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2E5228E-D480-47B8-B54E-712C39DC97F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2E5228E-D480-47B8-B54E-712C39DC97F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2E5228E-D480-47B8-B54E-712C39DC97F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D784CBF-96EF-4035-906C-14AA55BAC9D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D784CBF-96EF-4035-906C-14AA55BAC9D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D784CBF-96EF-4035-906C-14AA55BAC9D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D784CBF-96EF-4035-906C-14AA55BAC9D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35DA66C4-04DA-44DF-B124-B8F7292CFFFA}
+	EndGlobalSection
+EndGlobal

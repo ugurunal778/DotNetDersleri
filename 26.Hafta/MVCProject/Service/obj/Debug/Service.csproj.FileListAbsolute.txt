@@ -1,0 +1,48 @@
+D:\Users\euykan\source\repos\MVCProject\Service\bin\Debug\Service.dll
+D:\Users\euykan\source\repos\MVCProject\Service\bin\Debug\Service.pdb
+D:\Users\euykan\source\repos\MVCProject\Service\bin\Debug\AutoMapper.dll
+D:\Users\euykan\source\repos\MVCProject\Service\bin\Debug\DTO.dll
+D:\Users\euykan\source\repos\MVCProject\Service\bin\Debug\Repository.dll
+D:\Users\euykan\source\repos\MVCProject\Service\bin\Debug\EntityFramework.dll
+D:\Users\euykan\source\repos\MVCProject\Service\bin\Debug\DTO.pdb
+D:\Users\euykan\source\repos\MVCProject\Service\bin\Debug\Repository.pdb
+D:\Users\euykan\source\repos\MVCProject\Service\bin\Debug\Repository.dll.config
+D:\Users\euykan\source\repos\MVCProject\Service\bin\Debug\AutoMapper.xml
+D:\Users\euykan\source\repos\MVCProject\Service\bin\Debug\EntityFramework.xml
+D:\Users\euykan\source\repos\MVCProject\Service\obj\Debug\Service.csprojAssemblyReference.cache
+D:\Users\euykan\source\repos\MVCProject\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+D:\Users\euykan\source\repos\MVCProject\Service\obj\Debug\Service.csproj.CopyComplete
+D:\Users\euykan\source\repos\MVCProject\Service\obj\Debug\Service.dll
+D:\Users\euykan\source\repos\MVCProject\Service\obj\Debug\Service.pdb
+C:\Users\ugur7\Google Drive\.Net Dersler\26.Hafta\20210801\MVCProject\Service\bin\Debug\Service.dll
+C:\Users\ugur7\Google Drive\.Net Dersler\26.Hafta\20210801\MVCProject\Service\bin\Debug\Service.pdb
+C:\Users\ugur7\Google Drive\.Net Dersler\26.Hafta\20210801\MVCProject\Service\bin\Debug\AutoMapper.dll
+C:\Users\ugur7\Google Drive\.Net Dersler\26.Hafta\20210801\MVCProject\Service\bin\Debug\DTO.dll
+C:\Users\ugur7\Google Drive\.Net Dersler\26.Hafta\20210801\MVCProject\Service\bin\Debug\Repository.dll
+C:\Users\ugur7\Google Drive\.Net Dersler\26.Hafta\20210801\MVCProject\Service\bin\Debug\EntityFramework.dll
+C:\Users\ugur7\Google Drive\.Net Dersler\26.Hafta\20210801\MVCProject\Service\bin\Debug\DTO.pdb
+C:\Users\ugur7\Google Drive\.Net Dersler\26.Hafta\20210801\MVCProject\Service\bin\Debug\Repository.pdb
+C:\Users\ugur7\Google Drive\.Net Dersler\26.Hafta\20210801\MVCProject\Service\bin\Debug\Repository.dll.config
+C:\Users\ugur7\Google Drive\.Net Dersler\26.Hafta\20210801\MVCProject\Service\bin\Debug\AutoMapper.xml
+C:\Users\ugur7\Google Drive\.Net Dersler\26.Hafta\20210801\MVCProject\Service\bin\Debug\EntityFramework.xml
+C:\Users\ugur7\Google Drive\.Net Dersler\26.Hafta\20210801\MVCProject\Service\obj\Debug\Service.csproj.AssemblyReference.cache
+C:\Users\ugur7\Google Drive\.Net Dersler\26.Hafta\20210801\MVCProject\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\ugur7\Google Drive\.Net Dersler\26.Hafta\20210801\MVCProject\Service\obj\Debug\Service.csproj.CopyComplete
+C:\Users\ugur7\Google Drive\.Net Dersler\26.Hafta\20210801\MVCProject\Service\obj\Debug\Service.dll
+C:\Users\ugur7\Google Drive\.Net Dersler\26.Hafta\20210801\MVCProject\Service\obj\Debug\Service.pdb
+C:\Users\ugur7\Google Drive\.Net Dersler\26.Hafta\MVCProject\Service\bin\Debug\Service.dll
+C:\Users\ugur7\Google Drive\.Net Dersler\26.Hafta\MVCProject\Service\bin\Debug\Service.pdb
+C:\Users\ugur7\Google Drive\.Net Dersler\26.Hafta\MVCProject\Service\bin\Debug\AutoMapper.dll
+C:\Users\ugur7\Google Drive\.Net Dersler\26.Hafta\MVCProject\Service\bin\Debug\DTO.dll
+C:\Users\ugur7\Google Drive\.Net Dersler\26.Hafta\MVCProject\Service\bin\Debug\Repository.dll
+C:\Users\ugur7\Google Drive\.Net Dersler\26.Hafta\MVCProject\Service\bin\Debug\EntityFramework.dll
+C:\Users\ugur7\Google Drive\.Net Dersler\26.Hafta\MVCProject\Service\bin\Debug\DTO.pdb
+C:\Users\ugur7\Google Drive\.Net Dersler\26.Hafta\MVCProject\Service\bin\Debug\Repository.pdb
+C:\Users\ugur7\Google Drive\.Net Dersler\26.Hafta\MVCProject\Service\bin\Debug\Repository.dll.config
+C:\Users\ugur7\Google Drive\.Net Dersler\26.Hafta\MVCProject\Service\bin\Debug\AutoMapper.xml
+C:\Users\ugur7\Google Drive\.Net Dersler\26.Hafta\MVCProject\Service\bin\Debug\EntityFramework.xml
+C:\Users\ugur7\Google Drive\.Net Dersler\26.Hafta\MVCProject\Service\obj\Debug\Service.csproj.AssemblyReference.cache
+C:\Users\ugur7\Google Drive\.Net Dersler\26.Hafta\MVCProject\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\ugur7\Google Drive\.Net Dersler\26.Hafta\MVCProject\Service\obj\Debug\Service.csproj.CopyComplete
+C:\Users\ugur7\Google Drive\.Net Dersler\26.Hafta\MVCProject\Service\obj\Debug\Service.dll
+C:\Users\ugur7\Google Drive\.Net Dersler\26.Hafta\MVCProject\Service\obj\Debug\Service.pdb

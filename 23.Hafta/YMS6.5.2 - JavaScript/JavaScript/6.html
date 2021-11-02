@@ -1,0 +1,75 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link href="Content/bootstrap.css" rel="stylesheet" />
+    <script src="Scripts/Custom.js"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="row" style="margin-top:50px;">
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    <div class="form-group">
+                        <label> Personel Adı : </label>
+                        <div class="form-group">
+                            <input type="text" class="form-control" name="name" id="firstname" value="" />
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label> Personel Soyadı : </label>
+                        <div class="form-group">
+                            <input type="text" class="form-control" name="name" id="lastname" value="" />
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label> Personel Yaş : </label>
+                        <div class="form-group">
+                            <input type="text" class="form-control" name="name" id="age" value="" />
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label> Personel Cinsiyet : </label>
+                        <div class="form-group">
+                            <input type="text" class="form-control" name="name" id="gender" value="" />
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label> </label>
+                        <div class="form-group">
+                            <button id="btnPersonel" class="btn btn-default">Personel Bilgileri</button>
+                            <button id="btnEgitmen" class="btn btn-default">Eğitmen Bilgileri</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+<script>
+    document.getElementById("btnPersonel").onclick = function () {
+
+        var adi = document.getElementById("firstname").value;
+        var soyadi = document.getElementById("lastname").value;
+        var yasi = document.getElementById("age").value;
+        var cinsiyet = document.getElementById("gender").value;
+
+        var personel = new Personel(adi, soyadi, cinsiyet, yasi);
+        personel.ToName();
+        personel.ToSurName();
+    };
+
+    document.getElementById("btnEgitmen").onclick = function () {
+        var adi = document.getElementById("firstname").value;
+        var soyadi = document.getElementById("lastname").value;
+        var yasi = document.getElementById("age").value;
+        var cinsiyet = document.getElementById("gender").value;
+
+        var egitmen = new Personel(adi, soyadi, cinsiyet, yasi);
+        // eğer var olan sınıf içerisinde sürekli değilde, belirli zamanlarda lazım olacak olan property veya metot yapılarına ihtiyaç duyarsanız
+        Personel.prototype.FullName = egitmen.name + " " + egitmen.surname;
+        alert(egitmen.FullName)
+    }
+</script>

@@ -1,0 +1,7 @@
+c:\users\admin\source\repos\CreationalSingleton\CreationalSingleton\bin\Debug\CreationalSingleton.exe.config
+c:\users\admin\source\repos\CreationalSingleton\CreationalSingleton\bin\Debug\CreationalSingleton.exe
+c:\users\admin\source\repos\CreationalSingleton\CreationalSingleton\bin\Debug\CreationalSingleton.pdb
+c:\users\admin\source\repos\CreationalSingleton\CreationalSingleton\obj\Debug\CreationalSingleton.csprojResolveAssemblyReference.cache
+c:\users\admin\source\repos\CreationalSingleton\CreationalSingleton\obj\Debug\CreationalSingleton.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\CreationalSingleton\CreationalSingleton\obj\Debug\CreationalSingleton.exe
+c:\users\admin\source\repos\CreationalSingleton\CreationalSingleton\obj\Debug\CreationalSingleton.pdb

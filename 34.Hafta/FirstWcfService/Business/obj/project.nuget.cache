@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1FJO091fnPz+ExTIRVfi/ADskxS8DZM/SU3jgykEsqHu0aYVtusg56e8RIIwdUGA0RWXz/Y8WoIlJvTuEsvydQ==",
+  "success": true,
+  "projectFilePath": "F:\\İndirilenler\\FirstWcfService\\FirstWcfService\\Business\\Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ugur7\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ugur7\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

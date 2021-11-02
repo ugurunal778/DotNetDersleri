@@ -1,0 +1,45 @@
+D:\Users\euykan\source\repos\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.config
+D:\Users\euykan\source\repos\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+D:\Users\euykan\source\repos\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+D:\Users\euykan\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csprojAssemblyReference.cache
+D:\Users\euykan\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Form1.resources
+D:\Users\euykan\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+D:\Users\euykan\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.cache
+D:\Users\euykan\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.CoreCompileInputs.cache
+D:\Users\euykan\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+D:\Users\euykan\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb
+D:\Users\euykan\source\repos\PhoneBook\PhoneBook\bin\Debug\EntityFramework.dll
+D:\Users\euykan\source\repos\PhoneBook\PhoneBook\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\euykan\source\repos\PhoneBook\PhoneBook\bin\Debug\EntityFramework.xml
+D:\Users\euykan\source\repos\PhoneBook\PhoneBook\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\euykan\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.CopyComplete
+F:\.NET Dersleri\13.Hafta\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.config
+F:\.NET Dersleri\13.Hafta\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+F:\.NET Dersleri\13.Hafta\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+F:\.NET Dersleri\13.Hafta\PhoneBook\PhoneBook\bin\Debug\EntityFramework.dll
+F:\.NET Dersleri\13.Hafta\PhoneBook\PhoneBook\bin\Debug\EntityFramework.SqlServer.dll
+F:\.NET Dersleri\13.Hafta\PhoneBook\PhoneBook\bin\Debug\EntityFramework.xml
+F:\.NET Dersleri\13.Hafta\PhoneBook\PhoneBook\bin\Debug\EntityFramework.SqlServer.xml
+F:\.NET Dersleri\13.Hafta\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csprojAssemblyReference.cache
+F:\.NET Dersleri\13.Hafta\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Form1.resources
+F:\.NET Dersleri\13.Hafta\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+F:\.NET Dersleri\13.Hafta\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.cache
+F:\.NET Dersleri\13.Hafta\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.CoreCompileInputs.cache
+F:\.NET Dersleri\13.Hafta\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.CopyComplete
+F:\.NET Dersleri\13.Hafta\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+F:\.NET Dersleri\13.Hafta\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb
+C:\Users\ugur7\Google Drive\.Net Dersler\13. Hafta\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.config
+C:\Users\ugur7\Google Drive\.Net Dersler\13. Hafta\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+C:\Users\ugur7\Google Drive\.Net Dersler\13. Hafta\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+C:\Users\ugur7\Google Drive\.Net Dersler\13. Hafta\PhoneBook\PhoneBook\bin\Debug\EntityFramework.dll
+C:\Users\ugur7\Google Drive\.Net Dersler\13. Hafta\PhoneBook\PhoneBook\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ugur7\Google Drive\.Net Dersler\13. Hafta\PhoneBook\PhoneBook\bin\Debug\EntityFramework.xml
+C:\Users\ugur7\Google Drive\.Net Dersler\13. Hafta\PhoneBook\PhoneBook\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ugur7\Google Drive\.Net Dersler\13. Hafta\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csprojAssemblyReference.cache
+C:\Users\ugur7\Google Drive\.Net Dersler\13. Hafta\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Form1.resources
+C:\Users\ugur7\Google Drive\.Net Dersler\13. Hafta\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+C:\Users\ugur7\Google Drive\.Net Dersler\13. Hafta\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.cache
+C:\Users\ugur7\Google Drive\.Net Dersler\13. Hafta\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\ugur7\Google Drive\.Net Dersler\13. Hafta\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.CopyComplete
+C:\Users\ugur7\Google Drive\.Net Dersler\13. Hafta\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+C:\Users\ugur7\Google Drive\.Net Dersler\13. Hafta\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb

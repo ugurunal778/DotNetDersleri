@@ -1,0 +1,99 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Jquery UI Sortable - Default functionality</title>
+
+    <script src="Scripts/jquery-1.9.1.js"></script>
+    <script src="Scripts/bootstrap.js"></script>
+
+    <style>
+        #sortable {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            width: %60;
+        }
+
+            #sortable li {
+                margin: 0 3px 3px 3px;
+                padding: 0.4em;
+                padding-left: 1.5em;
+                font-size: 1.4em;
+            }
+
+                #sortable li span {
+                    position: absolute;
+                    margin-left: -1.3em;
+                }
+    </style>
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <script>
+        $(function () {
+            $("#sortable").sortable();
+            $("#sortable").disableSelection();
+        });
+        $(document).ready(function () {
+            var menu = ["Anasayfa", "Hakkımızda", "İletişim", "Galeri", "Hizmetlerimiz", "Biz Kimiz", "Siz Kimsiniz"];
+
+            $(function () {
+                for (var i = 0; i < menu.length; i++) {
+                    $("#sortable").append('<li class="list-group-item">' + menu[i] + '</li>');
+                    $("#menu").append('<li><a href="#">' + menu[i] + '</a></li>');
+                }
+            });
+
+        //   $("#btnMenu").click(function () {
+        //        var elemanlar = document.getElementsByTagName("li");
+        //        menus = [];
+        //        for (var i = 0; i < elemanlar.length; i++) {
+        //            if (!elemanlar[i].innerHTML.startsWith("<a")) {
+        //                menus.push(elemanlar[i].innerHTML);
+        //            }
+        //        }
+        
+
+        //            $("#menu").html("");
+        //    for (var i = 0; i < menus.length; i++) {
+        //        $("#menu").append('<li><a href="#">' + menus[i] + '</a></li>');
+        //    }
+        //});
+            });
+    </script>
+    <!--<script src="Scripts/4_Selectors.js"></script>-->
+    <link href="Content/bootstrap.css" rel="stylesheet" />
+</head>
+<body>
+    <nav class="navbar navbar-inverse">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                    <span class="sr-only">Toggle Navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#">Bilge Hatun</a>
+            </div>
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul id="menu" class="nav navbar-nav"></ul>
+            </div>
+        </div>
+    </nav>
+    <div class="container">
+        <div class="row" style="margin-top: 50px;">
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    <div class="col-lg-12">
+                        <ul id="sortable"></ul>
+                        <br />
+                        <button id="btnMenu" class="btn btn-default">Menü Düzenle</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

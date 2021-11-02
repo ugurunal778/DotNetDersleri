@@ -1,0 +1,12 @@
+D:\Users\euykan\source\repos\AdoNetSample\EntityFrameworkCodeFirstSample\bin\Debug\EntityFrameworkCodeFirstSample.exe.config
+D:\Users\euykan\source\repos\AdoNetSample\EntityFrameworkCodeFirstSample\bin\Debug\EntityFrameworkCodeFirstSample.exe
+D:\Users\euykan\source\repos\AdoNetSample\EntityFrameworkCodeFirstSample\bin\Debug\EntityFrameworkCodeFirstSample.pdb
+D:\Users\euykan\source\repos\AdoNetSample\EntityFrameworkCodeFirstSample\bin\Debug\EntityFramework.dll
+D:\Users\euykan\source\repos\AdoNetSample\EntityFrameworkCodeFirstSample\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\euykan\source\repos\AdoNetSample\EntityFrameworkCodeFirstSample\bin\Debug\EntityFramework.xml
+D:\Users\euykan\source\repos\AdoNetSample\EntityFrameworkCodeFirstSample\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\euykan\source\repos\AdoNetSample\EntityFrameworkCodeFirstSample\obj\Debug\EntityFrameworkCodeFirstSample.csprojAssemblyReference.cache
+D:\Users\euykan\source\repos\AdoNetSample\EntityFrameworkCodeFirstSample\obj\Debug\EntityFrameworkCodeFirstSample.csproj.CoreCompileInputs.cache
+D:\Users\euykan\source\repos\AdoNetSample\EntityFrameworkCodeFirstSample\obj\Debug\EntityFrameworkCodeFirstSample.csproj.CopyComplete
+D:\Users\euykan\source\repos\AdoNetSample\EntityFrameworkCodeFirstSample\obj\Debug\EntityFrameworkCodeFirstSample.exe
+D:\Users\euykan\source\repos\AdoNetSample\EntityFrameworkCodeFirstSample\obj\Debug\EntityFrameworkCodeFirstSample.pdb

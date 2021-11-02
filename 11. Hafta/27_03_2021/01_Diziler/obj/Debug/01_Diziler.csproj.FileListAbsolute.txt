@@ -1,0 +1,7 @@
+C:\Users\Üren\source\repos\27_03_2021\01_Diziler\bin\Debug\01_Diziler.exe.config
+C:\Users\Üren\source\repos\27_03_2021\01_Diziler\bin\Debug\01_Diziler.exe
+C:\Users\Üren\source\repos\27_03_2021\01_Diziler\bin\Debug\01_Diziler.pdb
+C:\Users\Üren\source\repos\27_03_2021\01_Diziler\obj\Debug\01_Diziler.csprojAssemblyReference.cache
+C:\Users\Üren\source\repos\27_03_2021\01_Diziler\obj\Debug\01_Diziler.csproj.CoreCompileInputs.cache
+C:\Users\Üren\source\repos\27_03_2021\01_Diziler\obj\Debug\01_Diziler.exe
+C:\Users\Üren\source\repos\27_03_2021\01_Diziler\obj\Debug\01_Diziler.pdb

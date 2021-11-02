@@ -1,0 +1,20 @@
+D:\Users\euykan\source\repos\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.config
+D:\Users\euykan\source\repos\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+D:\Users\euykan\source\repos\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+D:\Users\euykan\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csprojAssemblyReference.cache
+D:\Users\euykan\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Form1.resources
+D:\Users\euykan\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+D:\Users\euykan\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.cache
+D:\Users\euykan\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.CoreCompileInputs.cache
+D:\Users\euykan\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+D:\Users\euykan\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb
+F:\.NET Dersleri\12. Hafta\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.config
+F:\.NET Dersleri\12. Hafta\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+F:\.NET Dersleri\12. Hafta\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+F:\.NET Dersleri\12. Hafta\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csprojAssemblyReference.cache
+F:\.NET Dersleri\12. Hafta\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Form1.resources
+F:\.NET Dersleri\12. Hafta\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+F:\.NET Dersleri\12. Hafta\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.cache
+F:\.NET Dersleri\12. Hafta\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.CoreCompileInputs.cache
+F:\.NET Dersleri\12. Hafta\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+F:\.NET Dersleri\12. Hafta\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb

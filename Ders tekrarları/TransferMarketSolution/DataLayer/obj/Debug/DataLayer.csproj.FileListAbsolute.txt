@@ -1,0 +1,12 @@
+C:\Users\ugur7\source\repos\TransferMarketSolution\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\ugur7\source\repos\TransferMarketSolution\DataLayer\obj\Debug\DataLayer.csprojAssemblyReference.cache
+C:\Users\ugur7\source\repos\TransferMarketSolution\DataLayer\bin\Debug\DataLayer.dll.config
+C:\Users\ugur7\source\repos\TransferMarketSolution\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\ugur7\source\repos\TransferMarketSolution\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\ugur7\source\repos\TransferMarketSolution\DataLayer\bin\Debug\EntityFramework.dll
+C:\Users\ugur7\source\repos\TransferMarketSolution\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ugur7\source\repos\TransferMarketSolution\DataLayer\bin\Debug\EntityFramework.xml
+C:\Users\ugur7\source\repos\TransferMarketSolution\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ugur7\source\repos\TransferMarketSolution\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
+C:\Users\ugur7\source\repos\TransferMarketSolution\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\ugur7\source\repos\TransferMarketSolution\DataLayer\obj\Debug\DataLayer.pdb

@@ -1,0 +1,14 @@
+c:\users\admin\source\repos\BehavioralObserver\BehavioralObserver\bin\Debug\BehavioralObserver.exe.config
+c:\users\admin\source\repos\BehavioralObserver\BehavioralObserver\bin\Debug\BehavioralObserver.exe
+c:\users\admin\source\repos\BehavioralObserver\BehavioralObserver\bin\Debug\BehavioralObserver.pdb
+c:\users\admin\source\repos\BehavioralObserver\BehavioralObserver\obj\Debug\BehavioralObserver.csprojResolveAssemblyReference.cache
+c:\users\admin\source\repos\BehavioralObserver\BehavioralObserver\obj\Debug\BehavioralObserver.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\BehavioralObserver\BehavioralObserver\obj\Debug\BehavioralObserver.exe
+c:\users\admin\source\repos\BehavioralObserver\BehavioralObserver\obj\Debug\BehavioralObserver.pdb
+D:\Users\euykan\Desktop\Teknik Dökümanlar\Bilge Adam Müfredat\5) Solid Principles & Desing Patterns\Examples\Bilge Adam Design PatternExamples\BehavioralObserver\BehavioralObserver\bin\Debug\BehavioralObserver.exe.config
+D:\Users\euykan\Desktop\Teknik Dökümanlar\Bilge Adam Müfredat\5) Solid Principles & Desing Patterns\Examples\Bilge Adam Design PatternExamples\BehavioralObserver\BehavioralObserver\bin\Debug\BehavioralObserver.exe
+D:\Users\euykan\Desktop\Teknik Dökümanlar\Bilge Adam Müfredat\5) Solid Principles & Desing Patterns\Examples\Bilge Adam Design PatternExamples\BehavioralObserver\BehavioralObserver\bin\Debug\BehavioralObserver.pdb
+D:\Users\euykan\Desktop\Teknik Dökümanlar\Bilge Adam Müfredat\5) Solid Principles & Desing Patterns\Examples\Bilge Adam Design PatternExamples\BehavioralObserver\BehavioralObserver\obj\Debug\BehavioralObserver.csprojAssemblyReference.cache
+D:\Users\euykan\Desktop\Teknik Dökümanlar\Bilge Adam Müfredat\5) Solid Principles & Desing Patterns\Examples\Bilge Adam Design PatternExamples\BehavioralObserver\BehavioralObserver\obj\Debug\BehavioralObserver.csproj.CoreCompileInputs.cache
+D:\Users\euykan\Desktop\Teknik Dökümanlar\Bilge Adam Müfredat\5) Solid Principles & Desing Patterns\Examples\Bilge Adam Design PatternExamples\BehavioralObserver\BehavioralObserver\obj\Debug\BehavioralObserver.exe
+D:\Users\euykan\Desktop\Teknik Dökümanlar\Bilge Adam Müfredat\5) Solid Principles & Desing Patterns\Examples\Bilge Adam Design PatternExamples\BehavioralObserver\BehavioralObserver\obj\Debug\BehavioralObserver.pdb

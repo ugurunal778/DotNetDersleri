@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TransferMarketModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Errors Found During Generation:
+warning 6013: The table/view 'xfvkxruc_phonebook.xfvkxruc_phonebookuser.City' does not have a primary key defined and no valid primary key could be inferred. This table/view has been excluded. To use the entity, you will need to review your schema, add the correct keys, and uncomment it.
+        <EntityType Name="City">
+          <Property Name="Id" Type="int" />
+          <Property Name="Name" Type="nvarchar(max)" />
+          <Property Name="StateId" Type="int" />
+        </EntityType>-->
+  <EntityType Name="Club">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar(max)" />
+    <Property Name="EstablishDate" Type="datetime" />
+    <Property Name="ColorOfJersey" Type="nvarchar(max)" />
+    <Property Name="JerseyUrl" Type="nvarchar(max)" />
+    <Property Name="StadiumId" Type="int" />
+    <Property Name="ManagerId" Type="int" />
+    <Property Name="IsActive" Type="bit" />
+    <Property Name="ModifiedOn" Type="datetime" />
+    <Property Name="CreatedOn" Type="datetime" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6013: The table/view 'xfvkxruc_phonebook.xfvkxruc_phonebookuser.Country' does not have a primary key defined and no valid primary key could be inferred. This table/view has been excluded. To use the entity, you will need to review your schema, add the correct keys, and uncomment it.
+        <EntityType Name="Country">
+          <Property Name="Id" Type="int" />
+          <Property Name="Sortname" Type="nvarchar(max)" />
+          <Property Name="Name" Type="nvarchar(max)" />
+          <Property Name="Phonecode" Type="nvarchar(max)" />
+        </EntityType>-->
+  <EntityType Name="Customer">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Surname" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="ModifiedOn" Type="datetime" Nullable="false" />
+    <Property Name="CreatedOn" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="FootballPlayerPosition">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="PositionId" Type="int" />
+    <Property Name="UserId" Type="int" />
+    <Property Name="PerformansRate" Type="int" />
+    <Property Name="ModifiedOn" Type="datetime" />
+    <Property Name="CreatedOn" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Phone">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CustomerId" Type="int" Nullable="false" />
+    <Property Name="PhoneType" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="PhoneNumber" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="ModifiedOn" Type="datetime" Nullable="false" />
+    <Property Name="CreatedOn" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="PhoneType">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="PhoneType" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="PhoneOrder" Type="int" Nullable="false" />
+    <Property Name="ModifiedOn" Type="datetime" Nullable="false" />
+    <Property Name="CreatedOn" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Position">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="PositionType" Type="nvarchar(max)" />
+    <Property Name="Position" Type="nvarchar(max)" />
+    <Property Name="PositionDesc" Type="nvarchar" MaxLength="5" />
+    <Property Name="IsActive" Type="bit" />
+    <Property Name="ModifiedOn" Type="datetime" />
+    <Property Name="CreatedOn" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Season">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar(max)" />
+    <Property Name="CountryId" Type="int" Nullable="false" />
+    <Property Name="StartDate" Type="datetime" />
+    <Property Name="EndDate" Type="datetime" />
+    <Property Name="ModifiedOn" Type="datetime" />
+    <Property Name="CreatedOn" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Stadium">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar(max)" />
+    <Property Name="EstablishDate" Type="datetime" />
+    <Property Name="Capacity" Type="int" />
+    <Property Name="IsActive" Type="bit" />
+    <Property Name="ModifiedOn" Type="datetime" />
+    <Property Name="CreatedOn" Type="datetime" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'xfvkxruc_phonebook.xfvkxruc_phonebookuser.State' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="State">
+    <Key>
+      <PropertyRef Name="Id" />
+      <PropertyRef Name="StateName" />
+      <PropertyRef Name="CountryId" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" />
+    <Property Name="StateName" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="CountryId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="TypeOfLeague">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar(max)" />
+    <Property Name="StartDate" Type="datetime" />
+    <Property Name="EndDate" Type="datetime" />
+    <Property Name="ModifiedOn" Type="datetime" />
+    <Property Name="CreatedOn" Type="datetime" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="FirstName" Type="nvarchar(max)" />
+    <Property Name="LastName" Type="nvarchar(max)" />
+    <Property Name="Type" Type="int" />
+    <Property Name="BirthDate" Type="datetime" />
+    <Property Name="Gender" Type="bit" />
+    <Property Name="IsActive" Type="bit" />
+    <Property Name="ModifiedOn" Type="datetime" />
+    <Property Name="CreatedOn" Type="datetime" />
+  </EntityType>
+  <EntityType Name="UserAdress">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserId" Type="int" />
+    <Property Name="CountryId" Type="int" />
+    <Property Name="CityId" Type="int" />
+    <Property Name="PrimaryAdress" Type="bit" />
+    <Property Name="IsActive" Type="bit" />
+    <Property Name="ModifiedOn" Type="datetime" />
+    <Property Name="CreatedOn" Type="datetime" />
+  </EntityType>
+  <EntityType Name="UserContact">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserId" Type="int" />
+    <Property Name="PhoneNumber" Type="nvarchar" MaxLength="20" />
+    <Property Name="PhoneType" Type="int" />
+    <Property Name="PrimaryContact" Type="bit" />
+    <Property Name="IsActive" Type="bit" />
+    <Property Name="ModifiedOn" Type="datetime" />
+    <Property Name="CreatedOn" Type="datetime" />
+  </EntityType>
+  <EntityType Name="UserHistory">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserId" Type="int" />
+    <Property Name="FromClubId" Type="int" />
+    <Property Name="ToClubId" Type="int" />
+    <Property Name="Amount" Type="decimal" Precision="18" Scale="0" />
+    <Property Name="Currency" Type="nvarchar" MaxLength="50" />
+    <Property Name="TransferDate" Type="datetime" />
+    <Property Name="ModifiedOn" Type="datetime" />
+    <Property Name="CreatedOn" Type="datetime" />
+  </EntityType>
+  <EntityType Name="UserStatistic">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserId" Type="int" />
+    <Property Name="ClubId" Type="int" />
+    <Property Name="SeasonId" Type="int" />
+    <Property Name="TypeOfLeagueId" Type="int" />
+    <Property Name="StartDate" Type="datetime" />
+    <Property Name="EndDate" Type="datetime" />
+    <Property Name="PlayedGameCount" Type="int" />
+    <Property Name="WinCount" Type="int" />
+    <Property Name="DrawCount" Type="int" />
+    <Property Name="LostCount" Type="int" />
+    <Property Name="GoalCount" Type="int" />
+    <Property Name="AssistCount" Type="int" />
+    <Property Name="TotalMinute" Type="int" />
+    <Property Name="ModifiedOn" Type="datetime" />
+    <Property Name="CreatedOn" Type="datetime" />
+  </EntityType>
+  <EntityType Name="UserType">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserTypeName" Type="nvarchar(max)" />
+    <Property Name="IsActive" Type="bit" />
+    <Property Name="ModifiedOn" Type="datetime" />
+    <Property Name="CreatedOn" Type="datetime" />
+  </EntityType>
+  <EntityType Name="UserValueHistory">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserId" Type="int" />
+    <Property Name="StartDate" Type="datetime" />
+    <Property Name="EndDate" Type="datetime" />
+    <Property Name="CurrentValue" Type="decimal" Precision="18" Scale="0" />
+    <Property Name="Currency" Type="nvarchar" MaxLength="50" />
+    <Property Name="IsActive" Type="bit" />
+    <Property Name="ModifiedOn" Type="datetime" />
+    <Property Name="CreatedOn" Type="datetime" />
+  </EntityType>
+  <EntityContainer Name="TransferMarketModelStoreContainer">
+    <EntitySet Name="Club" EntityType="Self.Club" Schema="xfvkxruc_phonebookuser" store:Type="Tables" />
+    <EntitySet Name="Customer" EntityType="Self.Customer" Schema="xfvkxruc_phonebookuser" store:Type="Tables" />
+    <EntitySet Name="FootballPlayerPosition" EntityType="Self.FootballPlayerPosition" Schema="xfvkxruc_phonebookuser" store:Type="Tables" />
+    <EntitySet Name="Phone" EntityType="Self.Phone" Schema="xfvkxruc_phonebookuser" store:Type="Tables" />
+    <EntitySet Name="PhoneType" EntityType="Self.PhoneType" Schema="xfvkxruc_phonebookuser" store:Type="Tables" />
+    <EntitySet Name="Position" EntityType="Self.Position" Schema="xfvkxruc_phonebookuser" store:Type="Tables" />
+    <EntitySet Name="Season" EntityType="Self.Season" Schema="xfvkxruc_phonebookuser" store:Type="Tables" />
+    <EntitySet Name="Stadium" EntityType="Self.Stadium" Schema="xfvkxruc_phonebookuser" store:Type="Tables" />
+    <EntitySet Name="TypeOfLeague" EntityType="Self.TypeOfLeague" Schema="xfvkxruc_phonebookuser" store:Type="Tables" />
+    <EntitySet Name="User" EntityType="Self.User" Schema="xfvkxruc_phonebookuser" store:Type="Tables" />
+    <EntitySet Name="UserAdress" EntityType="Self.UserAdress" Schema="xfvkxruc_phonebookuser" store:Type="Tables" />
+    <EntitySet Name="UserContact" EntityType="Self.UserContact" Schema="xfvkxruc_phonebookuser" store:Type="Tables" />
+    <EntitySet Name="UserHistory" EntityType="Self.UserHistory" Schema="xfvkxruc_phonebookuser" store:Type="Tables" />
+    <EntitySet Name="UserStatistic" EntityType="Self.UserStatistic" Schema="xfvkxruc_phonebookuser" store:Type="Tables" />
+    <EntitySet Name="UserType" EntityType="Self.UserType" Schema="xfvkxruc_phonebookuser" store:Type="Tables" />
+    <EntitySet Name="UserValueHistory" EntityType="Self.UserValueHistory" Schema="xfvkxruc_phonebookuser" store:Type="Tables" />
+    <EntitySet Name="State" EntityType="Self.State" store:Type="Tables" store:Schema="xfvkxruc_phonebookuser">
+      <DefiningQuery>SELECT 
+    [State].[Id] AS [Id], 
+    [State].[StateName] AS [StateName], 
+    [State].[CountryId] AS [CountryId]
+    FROM [xfvkxruc_phonebookuser].[State] AS [State]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

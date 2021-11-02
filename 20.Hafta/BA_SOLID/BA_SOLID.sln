@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BA_SOLID", "BA_SOLID\BA_SOLID.csproj", "{BED06301-AD24-4BE1-A714-3A13E841865B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D709521B-A8E5-4524-8A48-93EDCF87A15E}"
+	ProjectSection(SolutionItems) = preProject
+		Aciklamalar.txt = Aciklamalar.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolidSample", "SolidSample\SolidSample.csproj", "{0A3BE75E-5132-4855-A679-53F495D506D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BED06301-AD24-4BE1-A714-3A13E841865B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BED06301-AD24-4BE1-A714-3A13E841865B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BED06301-AD24-4BE1-A714-3A13E841865B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BED06301-AD24-4BE1-A714-3A13E841865B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A3BE75E-5132-4855-A679-53F495D506D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A3BE75E-5132-4855-A679-53F495D506D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A3BE75E-5132-4855-A679-53F495D506D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A3BE75E-5132-4855-A679-53F495D506D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68D26C17-F373-4A43-92FB-E3E46318C5B3}
+	EndGlobalSection
+EndGlobal

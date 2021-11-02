@@ -1,0 +1,9 @@
+C:\Users\Üren\source\repos\YazilimGiris\01_DegiskenlerKavrami\bin\Debug\01_DegiskenlerKavrami.exe.config
+C:\Users\Üren\source\repos\YazilimGiris\01_DegiskenlerKavrami\bin\Debug\01_DegiskenlerKavrami.exe
+C:\Users\Üren\source\repos\YazilimGiris\01_DegiskenlerKavrami\bin\Debug\01_DegiskenlerKavrami.pdb
+C:\Users\Üren\source\repos\YazilimGiris\01_DegiskenlerKavrami\obj\Debug\01_DegiskenlerKavrami.csprojAssemblyReference.cache
+C:\Users\Üren\source\repos\YazilimGiris\01_DegiskenlerKavrami\obj\Debug\_01_DegiskenlerKavrami.Properties.Resources.resources
+C:\Users\Üren\source\repos\YazilimGiris\01_DegiskenlerKavrami\obj\Debug\01_DegiskenlerKavrami.csproj.GenerateResource.cache
+C:\Users\Üren\source\repos\YazilimGiris\01_DegiskenlerKavrami\obj\Debug\01_DegiskenlerKavrami.csproj.CoreCompileInputs.cache
+C:\Users\Üren\source\repos\YazilimGiris\01_DegiskenlerKavrami\obj\Debug\01_DegiskenlerKavrami.exe
+C:\Users\Üren\source\repos\YazilimGiris\01_DegiskenlerKavrami\obj\Debug\01_DegiskenlerKavrami.pdb

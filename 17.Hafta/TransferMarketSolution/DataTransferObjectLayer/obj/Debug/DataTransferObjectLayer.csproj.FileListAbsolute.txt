@@ -1,0 +1,12 @@
+D:\Users\euykan\source\repos\TransferMarketSolution\DataTransferObjectLayer\bin\Debug\DataTransferObjectLayer.dll
+D:\Users\euykan\source\repos\TransferMarketSolution\DataTransferObjectLayer\bin\Debug\DataTransferObjectLayer.pdb
+D:\Users\euykan\source\repos\TransferMarketSolution\DataTransferObjectLayer\obj\Debug\DataTransferObjectLayer.csprojAssemblyReference.cache
+D:\Users\euykan\source\repos\TransferMarketSolution\DataTransferObjectLayer\obj\Debug\DataTransferObjectLayer.csproj.CoreCompileInputs.cache
+D:\Users\euykan\source\repos\TransferMarketSolution\DataTransferObjectLayer\obj\Debug\DataTransferObjectLayer.dll
+D:\Users\euykan\source\repos\TransferMarketSolution\DataTransferObjectLayer\obj\Debug\DataTransferObjectLayer.pdb
+C:\Users\ugur7\Google Drive\.Net Dersler\17.Hafta\TransferMarketSolution\DataTransferObjectLayer\bin\Debug\DataTransferObjectLayer.dll
+C:\Users\ugur7\Google Drive\.Net Dersler\17.Hafta\TransferMarketSolution\DataTransferObjectLayer\bin\Debug\DataTransferObjectLayer.pdb
+C:\Users\ugur7\Google Drive\.Net Dersler\17.Hafta\TransferMarketSolution\DataTransferObjectLayer\obj\Debug\DataTransferObjectLayer.csprojAssemblyReference.cache
+C:\Users\ugur7\Google Drive\.Net Dersler\17.Hafta\TransferMarketSolution\DataTransferObjectLayer\obj\Debug\DataTransferObjectLayer.csproj.CoreCompileInputs.cache
+C:\Users\ugur7\Google Drive\.Net Dersler\17.Hafta\TransferMarketSolution\DataTransferObjectLayer\obj\Debug\DataTransferObjectLayer.dll
+C:\Users\ugur7\Google Drive\.Net Dersler\17.Hafta\TransferMarketSolution\DataTransferObjectLayer\obj\Debug\DataTransferObjectLayer.pdb

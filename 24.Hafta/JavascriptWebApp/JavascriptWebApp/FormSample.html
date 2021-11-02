@@ -1,0 +1,97 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link href="Bootstrap/css/bootstrap.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="container">
+        <div class="row" style="margin-top:50px;">
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    <div class="form-group">
+                        <label> Personel Adı : </label>
+                        <div class="form-group">
+                            <input type="text" class="form-control" name="name" id="firstname" value="" />
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label> Personel Soyadı : </label>
+                        <div class="form-group">
+                            <input type="text" class="form-control" name="name" id="lastname" value="" />
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label> Personel Yaş : </label>
+                        <div class="form-group">
+                            <input type="text" class="form-control" name="name" id="age" value="" />
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label> Personel Cinsiyet : </label>
+                        <div class="form-group">
+                            <input type="text" class="form-control" name="name" id="gender" value="" />
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label> </label>
+                        <div class="form-group">
+                            <button id="btnPersonel" class="btn btn-default">Personel Bilgileri</button>
+                            <button id="btnEgitmen" class="btn btn-default">Eğitmen Bilgileri</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+<script>
+ 
+
+    // Personel Class'ı oluşturduk
+    var Personel = (function () {
+        // Personel Class'ının Constructor'ını oluşturduk
+        function Personel(name, surname, cinsiyet) {
+            this.name = name;
+            this.surname = surname;
+            this.cinsiyet = cinsiyet;
+            this.ToSurName = function () {
+                alert(this.surname)
+            }
+        }
+        // Personel Class'ına ToName Adından personelin adını mesaj olarak gösteren bir metot ekledik
+        Personel.prototype.ToName = function () {
+            alert(this.name);
+        }
+        Personel.prototype.ToCinsiyet = function () {
+            alert(this.cinsiyet);
+        }
+        // Property ve metotlarını eklediğimiz nesneyi en dışta yer alan Personel değişkenine aktardık
+        return Personel;
+        // (); kısmı kodun otomatik olarak çalışmasını ve class'ın oluşmasını sağlamaktadır :)
+    })();
+    document.getElementById("btnPersonel").onclick = function () {
+        var adi = document.getElementById("firstname").value;
+        var soyadi = document.getElementById("lastname").value;
+        var yasi = document.getElementById("age").value;
+        var cinsiyet = document.getElementById("gender").value;
+
+        var personel = new Personel(adi, soyadi, cinsiyet, yasi);
+        personel.ToName();
+        personel.ToSurName();
+        personel.ToCinsiyet();
+    };
+    document.getElementById("btnEgitmen").onclick = function () {
+        var adi = document.getElementById("firstname").value;
+        var soyadi = document.getElementById("lastname").value;
+        var yasi = document.getElementById("age").value;
+        var cinsiyet = document.getElementById("gender").value;
+
+        var egitmen = new Personel(adi, soyadi, cinsiyet, yasi);
+        // eğer var olan sınıf içerisinde sürekli değilde, belirli zamanlarda lazım olacak olan property veya metot yapılarına ihtiyaç duyarsanız
+        Personel.prototype.FullName = egitmen.name + " " + egitmen.surname;
+        alert(egitmen.FullName)
+    }
+</script>

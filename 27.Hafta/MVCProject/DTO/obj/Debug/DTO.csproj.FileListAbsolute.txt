@@ -1,0 +1,14 @@
+D:\Users\euykan\source\repos\MVCProject\DTO\bin\Debug\DTO.dll
+D:\Users\euykan\source\repos\MVCProject\DTO\bin\Debug\DTO.pdb
+D:\Users\euykan\source\repos\MVCProject\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Users\euykan\source\repos\MVCProject\DTO\obj\Debug\DTO.dll
+D:\Users\euykan\source\repos\MVCProject\DTO\obj\Debug\DTO.pdb
+D:\Users\euykan\source\repos\MVCProject\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+F:\İndirilenler\20210807\MVCProject\DTO\bin\Debug\DTO.dll
+F:\İndirilenler\20210807\MVCProject\DTO\bin\Debug\DTO.pdb
+F:\İndirilenler\20210807\MVCProject\DTO\bin\Debug\System.Runtime.Serialization.Primitives.dll
+F:\İndirilenler\20210807\MVCProject\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+F:\İndirilenler\20210807\MVCProject\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+F:\İndirilenler\20210807\MVCProject\DTO\obj\Debug\DTO.csproj.CopyComplete
+F:\İndirilenler\20210807\MVCProject\DTO\obj\Debug\DTO.dll
+F:\İndirilenler\20210807\MVCProject\DTO\obj\Debug\DTO.pdb

@@ -1,0 +1,5 @@
+C:\Users\ugur7\source\repos\TransferMarketSolution\DataTransferObject\bin\Debug\DataTransferObject.dll
+C:\Users\ugur7\source\repos\TransferMarketSolution\DataTransferObject\bin\Debug\DataTransferObject.pdb
+C:\Users\ugur7\source\repos\TransferMarketSolution\DataTransferObject\obj\Debug\DataTransferObjectLayer.csproj.CoreCompileInputs.cache
+C:\Users\ugur7\source\repos\TransferMarketSolution\DataTransferObject\obj\Debug\DataTransferObject.dll
+C:\Users\ugur7\source\repos\TransferMarketSolution\DataTransferObject\obj\Debug\DataTransferObject.pdb

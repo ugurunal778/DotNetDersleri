@@ -1,0 +1,14 @@
+C:\Users\ugur7\source\repos\AdoNetSample\AdoNetSample\obj\Debug\AdoNetSample.csprojAssemblyReference.cache
+C:\Users\ugur7\source\repos\AdoNetSample\AdoNetSample\obj\Debug\AdoNetSample.csproj.CoreCompileInputs.cache
+C:\Users\ugur7\source\repos\AdoNetSample\AdoNetSample\bin\Debug\AdoNetSample.exe.config
+C:\Users\ugur7\source\repos\AdoNetSample\AdoNetSample\bin\Debug\AdoNetSample.exe
+C:\Users\ugur7\source\repos\AdoNetSample\AdoNetSample\bin\Debug\AdoNetSample.pdb
+C:\Users\ugur7\source\repos\AdoNetSample\AdoNetSample\bin\Debug\Dapper.dll
+C:\Users\ugur7\source\repos\AdoNetSample\AdoNetSample\bin\Debug\EntityFramework.dll
+C:\Users\ugur7\source\repos\AdoNetSample\AdoNetSample\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ugur7\source\repos\AdoNetSample\AdoNetSample\bin\Debug\Dapper.xml
+C:\Users\ugur7\source\repos\AdoNetSample\AdoNetSample\bin\Debug\EntityFramework.xml
+C:\Users\ugur7\source\repos\AdoNetSample\AdoNetSample\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ugur7\source\repos\AdoNetSample\AdoNetSample\obj\Debug\AdoNetSample.csproj.CopyComplete
+C:\Users\ugur7\source\repos\AdoNetSample\AdoNetSample\obj\Debug\AdoNetSample.exe
+C:\Users\ugur7\source\repos\AdoNetSample\AdoNetSample\obj\Debug\AdoNetSample.pdb

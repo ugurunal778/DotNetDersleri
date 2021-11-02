@@ -1,0 +1,14 @@
+c:\users\admin\source\repos\CreationalPrototype\CreationalPrototype\bin\Debug\CreationalPrototype.exe.config
+c:\users\admin\source\repos\CreationalPrototype\CreationalPrototype\bin\Debug\CreationalPrototype.exe
+c:\users\admin\source\repos\CreationalPrototype\CreationalPrototype\bin\Debug\CreationalPrototype.pdb
+c:\users\admin\source\repos\CreationalPrototype\CreationalPrototype\obj\Debug\CreationalPrototype.csprojResolveAssemblyReference.cache
+c:\users\admin\source\repos\CreationalPrototype\CreationalPrototype\obj\Debug\CreationalPrototype.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\CreationalPrototype\CreationalPrototype\obj\Debug\CreationalPrototype.exe
+c:\users\admin\source\repos\CreationalPrototype\CreationalPrototype\obj\Debug\CreationalPrototype.pdb
+D:\Users\euykan\Desktop\Teknik Dökümanlar\Bilge Adam Müfredat\5) Solid Principles & Desing Patterns\Examples\Bilge Adam Design PatternExamples\CreationalPrototype\CreationalPrototype\bin\Debug\CreationalPrototype.exe.config
+D:\Users\euykan\Desktop\Teknik Dökümanlar\Bilge Adam Müfredat\5) Solid Principles & Desing Patterns\Examples\Bilge Adam Design PatternExamples\CreationalPrototype\CreationalPrototype\bin\Debug\CreationalPrototype.exe
+D:\Users\euykan\Desktop\Teknik Dökümanlar\Bilge Adam Müfredat\5) Solid Principles & Desing Patterns\Examples\Bilge Adam Design PatternExamples\CreationalPrototype\CreationalPrototype\bin\Debug\CreationalPrototype.pdb
+D:\Users\euykan\Desktop\Teknik Dökümanlar\Bilge Adam Müfredat\5) Solid Principles & Desing Patterns\Examples\Bilge Adam Design PatternExamples\CreationalPrototype\CreationalPrototype\obj\Debug\CreationalPrototype.csprojAssemblyReference.cache
+D:\Users\euykan\Desktop\Teknik Dökümanlar\Bilge Adam Müfredat\5) Solid Principles & Desing Patterns\Examples\Bilge Adam Design PatternExamples\CreationalPrototype\CreationalPrototype\obj\Debug\CreationalPrototype.csproj.CoreCompileInputs.cache
+D:\Users\euykan\Desktop\Teknik Dökümanlar\Bilge Adam Müfredat\5) Solid Principles & Desing Patterns\Examples\Bilge Adam Design PatternExamples\CreationalPrototype\CreationalPrototype\obj\Debug\CreationalPrototype.exe
+D:\Users\euykan\Desktop\Teknik Dökümanlar\Bilge Adam Müfredat\5) Solid Principles & Desing Patterns\Examples\Bilge Adam Design PatternExamples\CreationalPrototype\CreationalPrototype\obj\Debug\CreationalPrototype.pdb

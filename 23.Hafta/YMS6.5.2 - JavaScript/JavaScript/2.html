@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link href="Content/bootstrap.css" rel="stylesheet" />
+    <script>
+        function Tikla() {
+            document.getElementById('demo').innerHTML = 'JQuery Dersleri';
+        }
+
+        function Message(x) {
+            document.getElementById('demo').innerHTML = x;
+        }
+    </script>
+</head>
+<body>
+    <div class="container">
+        <div class="row" style="margin-top:50px">
+            <figure>
+                <pre>
+                <span id="demo"></span>
+               </pre>
+            </figure>
+            <button class="btn  btn-default" onclick="Tikla()">Tıkla!</button>  
+            <button class="btn  btn-default" onclick="Message('Bilge Adam Yazılım Dersleri')">Tıkla!</button>
+        </div>
+    </div>
+</body>
+</html>

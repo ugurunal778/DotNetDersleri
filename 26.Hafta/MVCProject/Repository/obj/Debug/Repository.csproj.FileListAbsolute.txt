@@ -1,0 +1,36 @@
+D:\Users\euykan\source\repos\MVCProject\Repository\bin\Debug\Repository.dll.config
+D:\Users\euykan\source\repos\MVCProject\Repository\bin\Debug\Repository.dll
+D:\Users\euykan\source\repos\MVCProject\Repository\bin\Debug\Repository.pdb
+D:\Users\euykan\source\repos\MVCProject\Repository\bin\Debug\EntityFramework.dll
+D:\Users\euykan\source\repos\MVCProject\Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\euykan\source\repos\MVCProject\Repository\bin\Debug\EntityFramework.xml
+D:\Users\euykan\source\repos\MVCProject\Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\euykan\source\repos\MVCProject\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+D:\Users\euykan\source\repos\MVCProject\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+D:\Users\euykan\source\repos\MVCProject\Repository\obj\Debug\Repository.csproj.CopyComplete
+D:\Users\euykan\source\repos\MVCProject\Repository\obj\Debug\Repository.dll
+D:\Users\euykan\source\repos\MVCProject\Repository\obj\Debug\Repository.pdb
+C:\Users\ugur7\Google Drive\.Net Dersler\26.Hafta\20210801\MVCProject\Repository\bin\Debug\Repository.dll.config
+C:\Users\ugur7\Google Drive\.Net Dersler\26.Hafta\20210801\MVCProject\Repository\bin\Debug\Repository.dll
+C:\Users\ugur7\Google Drive\.Net Dersler\26.Hafta\20210801\MVCProject\Repository\bin\Debug\Repository.pdb
+C:\Users\ugur7\Google Drive\.Net Dersler\26.Hafta\20210801\MVCProject\Repository\bin\Debug\EntityFramework.dll
+C:\Users\ugur7\Google Drive\.Net Dersler\26.Hafta\20210801\MVCProject\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ugur7\Google Drive\.Net Dersler\26.Hafta\20210801\MVCProject\Repository\bin\Debug\EntityFramework.xml
+C:\Users\ugur7\Google Drive\.Net Dersler\26.Hafta\20210801\MVCProject\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ugur7\Google Drive\.Net Dersler\26.Hafta\20210801\MVCProject\Repository\obj\Debug\Repository.csproj.AssemblyReference.cache
+C:\Users\ugur7\Google Drive\.Net Dersler\26.Hafta\20210801\MVCProject\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\ugur7\Google Drive\.Net Dersler\26.Hafta\20210801\MVCProject\Repository\obj\Debug\Repository.csproj.CopyComplete
+C:\Users\ugur7\Google Drive\.Net Dersler\26.Hafta\20210801\MVCProject\Repository\obj\Debug\Repository.dll
+C:\Users\ugur7\Google Drive\.Net Dersler\26.Hafta\20210801\MVCProject\Repository\obj\Debug\Repository.pdb
+C:\Users\ugur7\Google Drive\.Net Dersler\26.Hafta\MVCProject\Repository\bin\Debug\Repository.dll.config
+C:\Users\ugur7\Google Drive\.Net Dersler\26.Hafta\MVCProject\Repository\bin\Debug\Repository.dll
+C:\Users\ugur7\Google Drive\.Net Dersler\26.Hafta\MVCProject\Repository\bin\Debug\Repository.pdb
+C:\Users\ugur7\Google Drive\.Net Dersler\26.Hafta\MVCProject\Repository\bin\Debug\EntityFramework.dll
+C:\Users\ugur7\Google Drive\.Net Dersler\26.Hafta\MVCProject\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ugur7\Google Drive\.Net Dersler\26.Hafta\MVCProject\Repository\bin\Debug\EntityFramework.xml
+C:\Users\ugur7\Google Drive\.Net Dersler\26.Hafta\MVCProject\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ugur7\Google Drive\.Net Dersler\26.Hafta\MVCProject\Repository\obj\Debug\Repository.csproj.AssemblyReference.cache
+C:\Users\ugur7\Google Drive\.Net Dersler\26.Hafta\MVCProject\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\ugur7\Google Drive\.Net Dersler\26.Hafta\MVCProject\Repository\obj\Debug\Repository.csproj.CopyComplete
+C:\Users\ugur7\Google Drive\.Net Dersler\26.Hafta\MVCProject\Repository\obj\Debug\Repository.dll
+C:\Users\ugur7\Google Drive\.Net Dersler\26.Hafta\MVCProject\Repository\obj\Debug\Repository.pdb

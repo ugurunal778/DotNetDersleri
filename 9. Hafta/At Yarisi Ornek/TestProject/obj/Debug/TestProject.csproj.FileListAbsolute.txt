@@ -1,0 +1,20 @@
+D:\Users\euykan\source\repos\TestProject\TestProject\bin\Debug\TestProject.exe.config
+D:\Users\euykan\source\repos\TestProject\TestProject\bin\Debug\TestProject.exe
+D:\Users\euykan\source\repos\TestProject\TestProject\bin\Debug\TestProject.pdb
+D:\Users\euykan\source\repos\TestProject\TestProject\obj\Debug\TestProject.csprojAssemblyReference.cache
+D:\Users\euykan\source\repos\TestProject\TestProject\obj\Debug\TestProject.Form1.resources
+D:\Users\euykan\source\repos\TestProject\TestProject\obj\Debug\TestProject.Properties.Resources.resources
+D:\Users\euykan\source\repos\TestProject\TestProject\obj\Debug\TestProject.csproj.GenerateResource.cache
+D:\Users\euykan\source\repos\TestProject\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+D:\Users\euykan\source\repos\TestProject\TestProject\obj\Debug\TestProject.exe
+D:\Users\euykan\source\repos\TestProject\TestProject\obj\Debug\TestProject.pdb
+F:\.NET Dersleri\9. Hafta\At Yarisi Ornek\TestProject\bin\Debug\TestProject.exe.config
+F:\.NET Dersleri\9. Hafta\At Yarisi Ornek\TestProject\bin\Debug\TestProject.exe
+F:\.NET Dersleri\9. Hafta\At Yarisi Ornek\TestProject\bin\Debug\TestProject.pdb
+F:\.NET Dersleri\9. Hafta\At Yarisi Ornek\TestProject\obj\Debug\TestProject.csprojAssemblyReference.cache
+F:\.NET Dersleri\9. Hafta\At Yarisi Ornek\TestProject\obj\Debug\TestProject.Form1.resources
+F:\.NET Dersleri\9. Hafta\At Yarisi Ornek\TestProject\obj\Debug\TestProject.Properties.Resources.resources
+F:\.NET Dersleri\9. Hafta\At Yarisi Ornek\TestProject\obj\Debug\TestProject.csproj.GenerateResource.cache
+F:\.NET Dersleri\9. Hafta\At Yarisi Ornek\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+F:\.NET Dersleri\9. Hafta\At Yarisi Ornek\TestProject\obj\Debug\TestProject.exe
+F:\.NET Dersleri\9. Hafta\At Yarisi Ornek\TestProject\obj\Debug\TestProject.pdb

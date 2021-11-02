@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="cd5ea620-1ea9-4fcd-8b0c-69e6e61efac2" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:59572/MvcSampleWcf.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="MvcSampleWcf.wsdl" MetadataType="Wsdl" ID="b63459f2-6d07-49c8-b909-da1291375a55" SourceId="1" SourceUrl="http://localhost:59572/MvcSampleWcf.svc?wsdl" />
+    <MetadataFile FileName="MvcSampleWcf.xsd" MetadataType="Schema" ID="9485a684-d05f-406e-bdf9-60d158d3cba7" SourceId="1" SourceUrl="http://localhost:59572/MvcSampleWcf.svc?xsd=xsd4" />
+    <MetadataFile FileName="MvcSampleWcf.disco" MetadataType="Disco" ID="e7f061ab-7f40-4035-a447-5dd20a07a73a" SourceId="1" SourceUrl="http://localhost:59572/MvcSampleWcf.svc?disco" />
+    <MetadataFile FileName="MvcSampleWcf1.xsd" MetadataType="Schema" ID="5c702bc7-bdf7-4696-b76f-73ffbe105a90" SourceId="1" SourceUrl="http://localhost:59572/MvcSampleWcf.svc?xsd=xsd1" />
+    <MetadataFile FileName="MvcSampleWcf2.xsd" MetadataType="Schema" ID="06638ac9-7e42-44a6-83e6-32fbf94db741" SourceId="1" SourceUrl="http://localhost:59572/MvcSampleWcf.svc?xsd=xsd2" />
+    <MetadataFile FileName="MvcSampleWcf3.xsd" MetadataType="Schema" ID="40f2dbdb-04e5-47cc-ab45-ee0eeb0c0d85" SourceId="1" SourceUrl="http://localhost:59572/MvcSampleWcf.svc?xsd=xsd0" />
+    <MetadataFile FileName="MvcSampleWcf4.xsd" MetadataType="Schema" ID="38d7d9d4-2583-4f6d-bc94-d11145215414" SourceId="1" SourceUrl="http://localhost:59572/MvcSampleWcf.svc?xsd=xsd3" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

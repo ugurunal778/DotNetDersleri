@@ -1,0 +1,7 @@
+C:\Users\Üren\source\repos\YazilimGiris\03_Conversion\obj\Debug\03_Conversion.csprojAssemblyReference.cache
+C:\Users\Üren\source\repos\YazilimGiris\03_Conversion\obj\Debug\03_Conversion.csproj.CoreCompileInputs.cache
+C:\Users\Üren\source\repos\YazilimGiris\03_Conversion\bin\Debug\03_Conversion.exe.config
+C:\Users\Üren\source\repos\YazilimGiris\03_Conversion\bin\Debug\03_Conversion.exe
+C:\Users\Üren\source\repos\YazilimGiris\03_Conversion\bin\Debug\03_Conversion.pdb
+C:\Users\Üren\source\repos\YazilimGiris\03_Conversion\obj\Debug\03_Conversion.exe
+C:\Users\Üren\source\repos\YazilimGiris\03_Conversion\obj\Debug\03_Conversion.pdb

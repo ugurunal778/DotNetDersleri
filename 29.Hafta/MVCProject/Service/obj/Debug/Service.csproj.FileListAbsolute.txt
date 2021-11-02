@@ -1,0 +1,54 @@
+D:\Users\euykan\source\repos\MVCProject\Service\bin\Debug\Service.dll
+D:\Users\euykan\source\repos\MVCProject\Service\bin\Debug\Service.pdb
+D:\Users\euykan\source\repos\MVCProject\Service\bin\Debug\AutoMapper.dll
+D:\Users\euykan\source\repos\MVCProject\Service\bin\Debug\DTO.dll
+D:\Users\euykan\source\repos\MVCProject\Service\bin\Debug\Repository.dll
+D:\Users\euykan\source\repos\MVCProject\Service\bin\Debug\EntityFramework.dll
+D:\Users\euykan\source\repos\MVCProject\Service\bin\Debug\DTO.pdb
+D:\Users\euykan\source\repos\MVCProject\Service\bin\Debug\Repository.pdb
+D:\Users\euykan\source\repos\MVCProject\Service\bin\Debug\Repository.dll.config
+D:\Users\euykan\source\repos\MVCProject\Service\bin\Debug\AutoMapper.xml
+D:\Users\euykan\source\repos\MVCProject\Service\bin\Debug\EntityFramework.xml
+D:\Users\euykan\source\repos\MVCProject\Service\obj\Debug\Service.csprojAssemblyReference.cache
+D:\Users\euykan\source\repos\MVCProject\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+D:\Users\euykan\source\repos\MVCProject\Service\obj\Debug\Service.csproj.CopyComplete
+D:\Users\euykan\source\repos\MVCProject\Service\obj\Debug\Service.dll
+D:\Users\euykan\source\repos\MVCProject\Service\obj\Debug\Service.pdb
+D:\Users\euykan\source\repos\MVCProject\Service\bin\Debug\System.Web.Mvc.dll
+D:\Users\euykan\source\repos\MVCProject\Service\bin\Debug\System.Web.WebPages.dll
+D:\Users\euykan\source\repos\MVCProject\Service\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Users\euykan\source\repos\MVCProject\Service\bin\Debug\System.Web.Razor.dll
+D:\Users\euykan\source\repos\MVCProject\Service\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Users\euykan\source\repos\MVCProject\Service\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Users\euykan\source\repos\MVCProject\Service\bin\Debug\System.Web.Mvc.xml
+D:\Users\euykan\source\repos\MVCProject\Service\bin\Debug\System.Web.WebPages.xml
+D:\Users\euykan\source\repos\MVCProject\Service\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Users\euykan\source\repos\MVCProject\Service\bin\Debug\System.Web.Razor.xml
+D:\Users\euykan\source\repos\MVCProject\Service\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\ugur7\Google Drive\.Net Dersler\29.Hafta\MVCProject\Service\bin\Debug\Service.dll
+C:\Users\ugur7\Google Drive\.Net Dersler\29.Hafta\MVCProject\Service\bin\Debug\Service.pdb
+C:\Users\ugur7\Google Drive\.Net Dersler\29.Hafta\MVCProject\Service\bin\Debug\AutoMapper.dll
+C:\Users\ugur7\Google Drive\.Net Dersler\29.Hafta\MVCProject\Service\bin\Debug\DTO.dll
+C:\Users\ugur7\Google Drive\.Net Dersler\29.Hafta\MVCProject\Service\bin\Debug\Repository.dll
+C:\Users\ugur7\Google Drive\.Net Dersler\29.Hafta\MVCProject\Service\bin\Debug\System.Web.Mvc.dll
+C:\Users\ugur7\Google Drive\.Net Dersler\29.Hafta\MVCProject\Service\bin\Debug\EntityFramework.dll
+C:\Users\ugur7\Google Drive\.Net Dersler\29.Hafta\MVCProject\Service\bin\Debug\System.Web.WebPages.dll
+C:\Users\ugur7\Google Drive\.Net Dersler\29.Hafta\MVCProject\Service\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\ugur7\Google Drive\.Net Dersler\29.Hafta\MVCProject\Service\bin\Debug\System.Web.Razor.dll
+C:\Users\ugur7\Google Drive\.Net Dersler\29.Hafta\MVCProject\Service\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\ugur7\Google Drive\.Net Dersler\29.Hafta\MVCProject\Service\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\ugur7\Google Drive\.Net Dersler\29.Hafta\MVCProject\Service\bin\Debug\DTO.pdb
+C:\Users\ugur7\Google Drive\.Net Dersler\29.Hafta\MVCProject\Service\bin\Debug\Repository.pdb
+C:\Users\ugur7\Google Drive\.Net Dersler\29.Hafta\MVCProject\Service\bin\Debug\Repository.dll.config
+C:\Users\ugur7\Google Drive\.Net Dersler\29.Hafta\MVCProject\Service\bin\Debug\AutoMapper.xml
+C:\Users\ugur7\Google Drive\.Net Dersler\29.Hafta\MVCProject\Service\bin\Debug\System.Web.Mvc.xml
+C:\Users\ugur7\Google Drive\.Net Dersler\29.Hafta\MVCProject\Service\bin\Debug\EntityFramework.xml
+C:\Users\ugur7\Google Drive\.Net Dersler\29.Hafta\MVCProject\Service\bin\Debug\System.Web.WebPages.xml
+C:\Users\ugur7\Google Drive\.Net Dersler\29.Hafta\MVCProject\Service\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\ugur7\Google Drive\.Net Dersler\29.Hafta\MVCProject\Service\bin\Debug\System.Web.Razor.xml
+C:\Users\ugur7\Google Drive\.Net Dersler\29.Hafta\MVCProject\Service\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\ugur7\Google Drive\.Net Dersler\29.Hafta\MVCProject\Service\obj\Debug\Service.csproj.AssemblyReference.cache
+C:\Users\ugur7\Google Drive\.Net Dersler\29.Hafta\MVCProject\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\ugur7\Google Drive\.Net Dersler\29.Hafta\MVCProject\Service\obj\Debug\Service.csproj.CopyComplete
+C:\Users\ugur7\Google Drive\.Net Dersler\29.Hafta\MVCProject\Service\obj\Debug\Service.dll
+C:\Users\ugur7\Google Drive\.Net Dersler\29.Hafta\MVCProject\Service\obj\Debug\Service.pdb

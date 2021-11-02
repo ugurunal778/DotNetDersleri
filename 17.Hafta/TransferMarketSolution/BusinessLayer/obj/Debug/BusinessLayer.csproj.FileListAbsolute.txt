@@ -1,0 +1,32 @@
+D:\Users\euykan\source\repos\TransferMarketSolution\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\Users\euykan\source\repos\TransferMarketSolution\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\Users\euykan\source\repos\TransferMarketSolution\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+D:\Users\euykan\source\repos\TransferMarketSolution\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Users\euykan\source\repos\TransferMarketSolution\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\Users\euykan\source\repos\TransferMarketSolution\BusinessLayer\obj\Debug\BusinessLayer.pdb
+D:\Users\euykan\source\repos\TransferMarketSolution\BusinessLayer\bin\Debug\AutoMapper.dll
+D:\Users\euykan\source\repos\TransferMarketSolution\BusinessLayer\bin\Debug\DataLayer.dll
+D:\Users\euykan\source\repos\TransferMarketSolution\BusinessLayer\bin\Debug\DataTransferObjectLayer.dll
+D:\Users\euykan\source\repos\TransferMarketSolution\BusinessLayer\bin\Debug\EntityFramework.dll
+D:\Users\euykan\source\repos\TransferMarketSolution\BusinessLayer\bin\Debug\DataLayer.pdb
+D:\Users\euykan\source\repos\TransferMarketSolution\BusinessLayer\bin\Debug\DataLayer.dll.config
+D:\Users\euykan\source\repos\TransferMarketSolution\BusinessLayer\bin\Debug\DataTransferObjectLayer.pdb
+D:\Users\euykan\source\repos\TransferMarketSolution\BusinessLayer\bin\Debug\AutoMapper.xml
+D:\Users\euykan\source\repos\TransferMarketSolution\BusinessLayer\bin\Debug\EntityFramework.xml
+D:\Users\euykan\source\repos\TransferMarketSolution\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\ugur7\Google Drive\.Net Dersler\17.Hafta\TransferMarketSolution\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\ugur7\Google Drive\.Net Dersler\17.Hafta\TransferMarketSolution\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\ugur7\Google Drive\.Net Dersler\17.Hafta\TransferMarketSolution\BusinessLayer\bin\Debug\AutoMapper.dll
+C:\Users\ugur7\Google Drive\.Net Dersler\17.Hafta\TransferMarketSolution\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\ugur7\Google Drive\.Net Dersler\17.Hafta\TransferMarketSolution\BusinessLayer\bin\Debug\DataTransferObjectLayer.dll
+C:\Users\ugur7\Google Drive\.Net Dersler\17.Hafta\TransferMarketSolution\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\ugur7\Google Drive\.Net Dersler\17.Hafta\TransferMarketSolution\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\ugur7\Google Drive\.Net Dersler\17.Hafta\TransferMarketSolution\BusinessLayer\bin\Debug\DataLayer.dll.config
+C:\Users\ugur7\Google Drive\.Net Dersler\17.Hafta\TransferMarketSolution\BusinessLayer\bin\Debug\DataTransferObjectLayer.pdb
+C:\Users\ugur7\Google Drive\.Net Dersler\17.Hafta\TransferMarketSolution\BusinessLayer\bin\Debug\AutoMapper.xml
+C:\Users\ugur7\Google Drive\.Net Dersler\17.Hafta\TransferMarketSolution\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\ugur7\Google Drive\.Net Dersler\17.Hafta\TransferMarketSolution\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\ugur7\Google Drive\.Net Dersler\17.Hafta\TransferMarketSolution\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ugur7\Google Drive\.Net Dersler\17.Hafta\TransferMarketSolution\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\ugur7\Google Drive\.Net Dersler\17.Hafta\TransferMarketSolution\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\ugur7\Google Drive\.Net Dersler\17.Hafta\TransferMarketSolution\BusinessLayer\obj\Debug\BusinessLayer.pdb

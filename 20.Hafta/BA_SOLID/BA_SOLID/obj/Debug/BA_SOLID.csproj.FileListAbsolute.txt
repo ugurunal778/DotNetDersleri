@@ -1,0 +1,21 @@
+D:\Bilge Adam Projeler\BA_SOLID\BA_SOLID\bin\Debug\BA_SOLID.exe.config
+D:\Bilge Adam Projeler\BA_SOLID\BA_SOLID\bin\Debug\BA_SOLID.exe
+D:\Bilge Adam Projeler\BA_SOLID\BA_SOLID\bin\Debug\BA_SOLID.pdb
+D:\Bilge Adam Projeler\BA_SOLID\BA_SOLID\obj\Debug\BA_SOLID.csprojAssemblyReference.cache
+D:\Bilge Adam Projeler\BA_SOLID\BA_SOLID\obj\Debug\BA_SOLID.csproj.CoreCompileInputs.cache
+D:\Bilge Adam Projeler\BA_SOLID\BA_SOLID\obj\Debug\BA_SOLID.exe
+D:\Bilge Adam Projeler\BA_SOLID\BA_SOLID\obj\Debug\BA_SOLID.pdb
+C:\Users\cn_og\Desktop\BA_SOLID\BA_SOLID\bin\Debug\BA_SOLID.exe.config
+C:\Users\cn_og\Desktop\BA_SOLID\BA_SOLID\bin\Debug\BA_SOLID.exe
+C:\Users\cn_og\Desktop\BA_SOLID\BA_SOLID\bin\Debug\BA_SOLID.pdb
+C:\Users\cn_og\Desktop\BA_SOLID\BA_SOLID\obj\Debug\BA_SOLID.csprojAssemblyReference.cache
+C:\Users\cn_og\Desktop\BA_SOLID\BA_SOLID\obj\Debug\BA_SOLID.csproj.CoreCompileInputs.cache
+C:\Users\cn_og\Desktop\BA_SOLID\BA_SOLID\obj\Debug\BA_SOLID.exe
+C:\Users\cn_og\Desktop\BA_SOLID\BA_SOLID\obj\Debug\BA_SOLID.pdb
+D:\Users\euykan\Desktop\Teknik Dökümanlar\Bilge Adam Müfredat\5) Solid Principles & Desing Patterns\Examples\BA_SOLID\BA_SOLID\bin\Debug\BA_SOLID.exe.config
+D:\Users\euykan\Desktop\Teknik Dökümanlar\Bilge Adam Müfredat\5) Solid Principles & Desing Patterns\Examples\BA_SOLID\BA_SOLID\bin\Debug\BA_SOLID.exe
+D:\Users\euykan\Desktop\Teknik Dökümanlar\Bilge Adam Müfredat\5) Solid Principles & Desing Patterns\Examples\BA_SOLID\BA_SOLID\bin\Debug\BA_SOLID.pdb
+D:\Users\euykan\Desktop\Teknik Dökümanlar\Bilge Adam Müfredat\5) Solid Principles & Desing Patterns\Examples\BA_SOLID\BA_SOLID\obj\Debug\BA_SOLID.csprojAssemblyReference.cache
+D:\Users\euykan\Desktop\Teknik Dökümanlar\Bilge Adam Müfredat\5) Solid Principles & Desing Patterns\Examples\BA_SOLID\BA_SOLID\obj\Debug\BA_SOLID.csproj.CoreCompileInputs.cache
+D:\Users\euykan\Desktop\Teknik Dökümanlar\Bilge Adam Müfredat\5) Solid Principles & Desing Patterns\Examples\BA_SOLID\BA_SOLID\obj\Debug\BA_SOLID.exe
+D:\Users\euykan\Desktop\Teknik Dökümanlar\Bilge Adam Müfredat\5) Solid Principles & Desing Patterns\Examples\BA_SOLID\BA_SOLID\obj\Debug\BA_SOLID.pdb

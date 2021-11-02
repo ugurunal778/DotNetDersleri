@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link href="Content/bootstrap.css" rel="stylesheet" />
+    <script>
+        function Hesapla(x, y) {
+            var s1 = parseInt(x);
+            var s2 = parseInt(y);
+
+            document.getElementById('demo').innerHTML = 'Toplama İşlemi Sonucu : ' + (s1 + s2);
+        }
+
+        function Calculate(x, y) {
+            alert(x + y)
+        }
+    </script>
+</head>
+<body>
+    <div class="container">
+        <div class="row" style="margin-top:50px">
+            <figure>
+                <pre>
+                <span id="demo"></span>
+               </pre>
+            </figure>
+            <button class="btn  btn-default" onclick="Hesapla('10','3')">Toplama Yap</button>
+            <button class="btn  btn-default" onclick="Calculate(10,3)">Toplama Yap</button>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,20 @@
+C:\Users\ugur7\source\repos\OOPSamples\OOPSamples\bin\Debug\OOPSamples.exe.config
+C:\Users\ugur7\source\repos\OOPSamples\OOPSamples\bin\Debug\OOPSamples.exe
+C:\Users\ugur7\source\repos\OOPSamples\OOPSamples\bin\Debug\OOPSamples.pdb
+C:\Users\ugur7\source\repos\OOPSamples\OOPSamples\obj\Debug\OOPSamples.csprojAssemblyReference.cache
+C:\Users\ugur7\source\repos\OOPSamples\OOPSamples\obj\Debug\OOPSamples.Form1.resources
+C:\Users\ugur7\source\repos\OOPSamples\OOPSamples\obj\Debug\OOPSamples.Properties.Resources.resources
+C:\Users\ugur7\source\repos\OOPSamples\OOPSamples\obj\Debug\OOPSamples.csproj.GenerateResource.cache
+C:\Users\ugur7\source\repos\OOPSamples\OOPSamples\obj\Debug\OOPSamples.csproj.CoreCompileInputs.cache
+C:\Users\ugur7\source\repos\OOPSamples\OOPSamples\obj\Debug\OOPSamples.exe
+C:\Users\ugur7\source\repos\OOPSamples\OOPSamples\obj\Debug\OOPSamples.pdb
+C:\Users\ugur7\Google Drive\.Net Dersler\Ders tekrarları\OOPSamples\OOPSamples\bin\Debug\OOPSamples.exe.config
+C:\Users\ugur7\Google Drive\.Net Dersler\Ders tekrarları\OOPSamples\OOPSamples\bin\Debug\OOPSamples.exe
+C:\Users\ugur7\Google Drive\.Net Dersler\Ders tekrarları\OOPSamples\OOPSamples\bin\Debug\OOPSamples.pdb
+C:\Users\ugur7\Google Drive\.Net Dersler\Ders tekrarları\OOPSamples\OOPSamples\obj\Debug\OOPSamples.Form1.resources
+C:\Users\ugur7\Google Drive\.Net Dersler\Ders tekrarları\OOPSamples\OOPSamples\obj\Debug\OOPSamples.Properties.Resources.resources
+C:\Users\ugur7\Google Drive\.Net Dersler\Ders tekrarları\OOPSamples\OOPSamples\obj\Debug\OOPSamples.csproj.GenerateResource.cache
+C:\Users\ugur7\Google Drive\.Net Dersler\Ders tekrarları\OOPSamples\OOPSamples\obj\Debug\OOPSamples.csproj.CoreCompileInputs.cache
+C:\Users\ugur7\Google Drive\.Net Dersler\Ders tekrarları\OOPSamples\OOPSamples\obj\Debug\OOPSamples.exe
+C:\Users\ugur7\Google Drive\.Net Dersler\Ders tekrarları\OOPSamples\OOPSamples\obj\Debug\OOPSamples.pdb
+C:\Users\ugur7\Google Drive\.Net Dersler\Ders tekrarları\OOPSamples\OOPSamples\obj\Debug\OOPSamples.csproj.AssemblyReference.cache

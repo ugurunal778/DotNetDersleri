@@ -1,0 +1,19 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+ <b>
+     @ViewBag.Message
+ </b>
+<br />
+<b>
+    @ViewBag.Bayburt
+</b>
+<b />
+
+@foreach (var item in (List<KeyValuePair<int, string>>)ViewBag.Data)
+{
+    <b>
+        @item.Value
+    </b>
+    <br />
+}

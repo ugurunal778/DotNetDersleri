@@ -1,0 +1,14 @@
+c:\users\admin\source\repos\StructuralProxy\StructuralProxy\obj\Debug\StructuralProxy.csprojResolveAssemblyReference.cache
+c:\users\admin\source\repos\StructuralProxy\StructuralProxy\obj\Debug\StructuralProxy.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\StructuralProxy\StructuralProxy\bin\Debug\StructuralProxy.exe.config
+c:\users\admin\source\repos\StructuralProxy\StructuralProxy\bin\Debug\StructuralProxy.exe
+c:\users\admin\source\repos\StructuralProxy\StructuralProxy\bin\Debug\StructuralProxy.pdb
+c:\users\admin\source\repos\StructuralProxy\StructuralProxy\obj\Debug\StructuralProxy.exe
+c:\users\admin\source\repos\StructuralProxy\StructuralProxy\obj\Debug\StructuralProxy.pdb
+D:\Users\euykan\Desktop\Teknik Dökümanlar\Bilge Adam Müfredat\5) Solid Principles & Desing Patterns\Examples\Bilge Adam Design PatternExamples\StructuralProxy\StructuralProxy\bin\Debug\StructuralProxy.exe.config
+D:\Users\euykan\Desktop\Teknik Dökümanlar\Bilge Adam Müfredat\5) Solid Principles & Desing Patterns\Examples\Bilge Adam Design PatternExamples\StructuralProxy\StructuralProxy\bin\Debug\StructuralProxy.exe
+D:\Users\euykan\Desktop\Teknik Dökümanlar\Bilge Adam Müfredat\5) Solid Principles & Desing Patterns\Examples\Bilge Adam Design PatternExamples\StructuralProxy\StructuralProxy\bin\Debug\StructuralProxy.pdb
+D:\Users\euykan\Desktop\Teknik Dökümanlar\Bilge Adam Müfredat\5) Solid Principles & Desing Patterns\Examples\Bilge Adam Design PatternExamples\StructuralProxy\StructuralProxy\obj\Debug\StructuralProxy.csprojAssemblyReference.cache
+D:\Users\euykan\Desktop\Teknik Dökümanlar\Bilge Adam Müfredat\5) Solid Principles & Desing Patterns\Examples\Bilge Adam Design PatternExamples\StructuralProxy\StructuralProxy\obj\Debug\StructuralProxy.csproj.CoreCompileInputs.cache
+D:\Users\euykan\Desktop\Teknik Dökümanlar\Bilge Adam Müfredat\5) Solid Principles & Desing Patterns\Examples\Bilge Adam Design PatternExamples\StructuralProxy\StructuralProxy\obj\Debug\StructuralProxy.exe
+D:\Users\euykan\Desktop\Teknik Dökümanlar\Bilge Adam Müfredat\5) Solid Principles & Desing Patterns\Examples\Bilge Adam Design PatternExamples\StructuralProxy\StructuralProxy\obj\Debug\StructuralProxy.pdb

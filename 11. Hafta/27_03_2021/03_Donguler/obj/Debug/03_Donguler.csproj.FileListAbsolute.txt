@@ -1,0 +1,7 @@
+C:\Users\Üren\source\repos\27_03_2021\03_Donguler\bin\Debug\03_Donguler.exe.config
+C:\Users\Üren\source\repos\27_03_2021\03_Donguler\bin\Debug\03_Donguler.exe
+C:\Users\Üren\source\repos\27_03_2021\03_Donguler\bin\Debug\03_Donguler.pdb
+C:\Users\Üren\source\repos\27_03_2021\03_Donguler\obj\Debug\03_Donguler.csprojAssemblyReference.cache
+C:\Users\Üren\source\repos\27_03_2021\03_Donguler\obj\Debug\03_Donguler.csproj.CoreCompileInputs.cache
+C:\Users\Üren\source\repos\27_03_2021\03_Donguler\obj\Debug\03_Donguler.exe
+C:\Users\Üren\source\repos\27_03_2021\03_Donguler\obj\Debug\03_Donguler.pdb

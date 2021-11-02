@@ -1,0 +1,16 @@
+D:\Users\euykan\source\repos\MVCProject\Service\bin\Debug\Service.dll
+D:\Users\euykan\source\repos\MVCProject\Service\bin\Debug\Service.pdb
+D:\Users\euykan\source\repos\MVCProject\Service\bin\Debug\AutoMapper.dll
+D:\Users\euykan\source\repos\MVCProject\Service\bin\Debug\DTO.dll
+D:\Users\euykan\source\repos\MVCProject\Service\bin\Debug\Repository.dll
+D:\Users\euykan\source\repos\MVCProject\Service\bin\Debug\EntityFramework.dll
+D:\Users\euykan\source\repos\MVCProject\Service\bin\Debug\DTO.pdb
+D:\Users\euykan\source\repos\MVCProject\Service\bin\Debug\Repository.pdb
+D:\Users\euykan\source\repos\MVCProject\Service\bin\Debug\Repository.dll.config
+D:\Users\euykan\source\repos\MVCProject\Service\bin\Debug\AutoMapper.xml
+D:\Users\euykan\source\repos\MVCProject\Service\bin\Debug\EntityFramework.xml
+D:\Users\euykan\source\repos\MVCProject\Service\obj\Debug\Service.csprojAssemblyReference.cache
+D:\Users\euykan\source\repos\MVCProject\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+D:\Users\euykan\source\repos\MVCProject\Service\obj\Debug\Service.csproj.CopyComplete
+D:\Users\euykan\source\repos\MVCProject\Service\obj\Debug\Service.dll
+D:\Users\euykan\source\repos\MVCProject\Service\obj\Debug\Service.pdb

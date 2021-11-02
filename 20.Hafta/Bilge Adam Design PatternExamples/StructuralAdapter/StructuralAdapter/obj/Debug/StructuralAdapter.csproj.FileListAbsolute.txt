@@ -1,0 +1,14 @@
+c:\users\admin\source\repos\StructuralAdapter\StructuralAdapter\bin\Debug\StructuralAdapter.exe.config
+c:\users\admin\source\repos\StructuralAdapter\StructuralAdapter\bin\Debug\StructuralAdapter.exe
+c:\users\admin\source\repos\StructuralAdapter\StructuralAdapter\bin\Debug\StructuralAdapter.pdb
+c:\users\admin\source\repos\StructuralAdapter\StructuralAdapter\obj\Debug\StructuralAdapter.csprojResolveAssemblyReference.cache
+c:\users\admin\source\repos\StructuralAdapter\StructuralAdapter\obj\Debug\StructuralAdapter.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\StructuralAdapter\StructuralAdapter\obj\Debug\StructuralAdapter.exe
+c:\users\admin\source\repos\StructuralAdapter\StructuralAdapter\obj\Debug\StructuralAdapter.pdb
+D:\Users\euykan\Desktop\Teknik Dökümanlar\Bilge Adam Müfredat\5) Solid Principles & Desing Patterns\Examples\Bilge Adam Design PatternExamples\StructuralAdapter\StructuralAdapter\bin\Debug\StructuralAdapter.exe.config
+D:\Users\euykan\Desktop\Teknik Dökümanlar\Bilge Adam Müfredat\5) Solid Principles & Desing Patterns\Examples\Bilge Adam Design PatternExamples\StructuralAdapter\StructuralAdapter\bin\Debug\StructuralAdapter.exe
+D:\Users\euykan\Desktop\Teknik Dökümanlar\Bilge Adam Müfredat\5) Solid Principles & Desing Patterns\Examples\Bilge Adam Design PatternExamples\StructuralAdapter\StructuralAdapter\bin\Debug\StructuralAdapter.pdb
+D:\Users\euykan\Desktop\Teknik Dökümanlar\Bilge Adam Müfredat\5) Solid Principles & Desing Patterns\Examples\Bilge Adam Design PatternExamples\StructuralAdapter\StructuralAdapter\obj\Debug\StructuralAdapter.csprojAssemblyReference.cache
+D:\Users\euykan\Desktop\Teknik Dökümanlar\Bilge Adam Müfredat\5) Solid Principles & Desing Patterns\Examples\Bilge Adam Design PatternExamples\StructuralAdapter\StructuralAdapter\obj\Debug\StructuralAdapter.csproj.CoreCompileInputs.cache
+D:\Users\euykan\Desktop\Teknik Dökümanlar\Bilge Adam Müfredat\5) Solid Principles & Desing Patterns\Examples\Bilge Adam Design PatternExamples\StructuralAdapter\StructuralAdapter\obj\Debug\StructuralAdapter.exe
+D:\Users\euykan\Desktop\Teknik Dökümanlar\Bilge Adam Müfredat\5) Solid Principles & Desing Patterns\Examples\Bilge Adam Design PatternExamples\StructuralAdapter\StructuralAdapter\obj\Debug\StructuralAdapter.pdb

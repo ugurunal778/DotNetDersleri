@@ -1,0 +1,20 @@
+D:\Users\euykan\source\repos\Hesap Makinesi\Hesap Makinesi\bin\Debug\Hesap Makinesi.exe.config
+D:\Users\euykan\source\repos\Hesap Makinesi\Hesap Makinesi\bin\Debug\Hesap Makinesi.exe
+D:\Users\euykan\source\repos\Hesap Makinesi\Hesap Makinesi\bin\Debug\Hesap Makinesi.pdb
+D:\Users\euykan\source\repos\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap Makinesi.csprojAssemblyReference.cache
+D:\Users\euykan\source\repos\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap_Makinesi.Form1.resources
+D:\Users\euykan\source\repos\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap_Makinesi.Properties.Resources.resources
+D:\Users\euykan\source\repos\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap Makinesi.csproj.GenerateResource.cache
+D:\Users\euykan\source\repos\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap Makinesi.csproj.CoreCompileInputs.cache
+D:\Users\euykan\source\repos\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap Makinesi.exe
+D:\Users\euykan\source\repos\Hesap Makinesi\Hesap Makinesi\obj\Debug\Hesap Makinesi.pdb
+F:\.NET Dersleri\8. Hafta\Hesap Makinesi Ornek\Hesap Makinesi\bin\Debug\Hesap Makinesi.exe.config
+F:\.NET Dersleri\8. Hafta\Hesap Makinesi Ornek\Hesap Makinesi\bin\Debug\Hesap Makinesi.exe
+F:\.NET Dersleri\8. Hafta\Hesap Makinesi Ornek\Hesap Makinesi\bin\Debug\Hesap Makinesi.pdb
+F:\.NET Dersleri\8. Hafta\Hesap Makinesi Ornek\Hesap Makinesi\obj\Debug\Hesap Makinesi.csprojAssemblyReference.cache
+F:\.NET Dersleri\8. Hafta\Hesap Makinesi Ornek\Hesap Makinesi\obj\Debug\Hesap_Makinesi.Form1.resources
+F:\.NET Dersleri\8. Hafta\Hesap Makinesi Ornek\Hesap Makinesi\obj\Debug\Hesap_Makinesi.Properties.Resources.resources
+F:\.NET Dersleri\8. Hafta\Hesap Makinesi Ornek\Hesap Makinesi\obj\Debug\Hesap Makinesi.csproj.GenerateResource.cache
+F:\.NET Dersleri\8. Hafta\Hesap Makinesi Ornek\Hesap Makinesi\obj\Debug\Hesap Makinesi.csproj.CoreCompileInputs.cache
+F:\.NET Dersleri\8. Hafta\Hesap Makinesi Ornek\Hesap Makinesi\obj\Debug\Hesap Makinesi.exe
+F:\.NET Dersleri\8. Hafta\Hesap Makinesi Ornek\Hesap Makinesi\obj\Debug\Hesap Makinesi.pdb
