@@ -1,6 +1,0 @@
-C:\Users\ugur7\source\repos\StudentSystemProject\Dto\bin\Debug\Dto.dll
-C:\Users\ugur7\source\repos\StudentSystemProject\Dto\bin\Debug\Dto.pdb
-C:\Users\ugur7\source\repos\StudentSystemProject\Dto\obj\Debug\Dto.csproj.AssemblyReference.cache
-C:\Users\ugur7\source\repos\StudentSystemProject\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
-C:\Users\ugur7\source\repos\StudentSystemProject\Dto\obj\Debug\Dto.dll
-C:\Users\ugur7\source\repos\StudentSystemProject\Dto\obj\Debug\Dto.pdb
